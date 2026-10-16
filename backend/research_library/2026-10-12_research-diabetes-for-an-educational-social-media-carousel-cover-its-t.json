@@ -1,0 +1,509 @@
+{
+  "saved_at": "2026-10-12T12:53:11.273268",
+  "topic": "Diabetes",
+  "campaign_mode": "educational_carousel",
+  "summary": "Diabetes is a chronic health condition that affects how your body turns food into energy. It occurs when your body either doesn't produce enough insulin or can't effectively use the insulin it makes, leading to high blood sugar levels. Proper management is crucial to prevent serious complications.",
+  "research_sections": [
+    {
+      "question": "What it is",
+      "answer": "Diabetes is a chronic disease where blood glucose (sugar) levels are too high. Insulin, a hormone from the pancreas, helps glucose enter cells for energy. In diabetes, either the body doesn't produce enough insulin, or it can't use the insulin it makes effectively, leading to glucose buildup in the blood.\n\nThere are two main types:\n*   **Type 1 Diabetes:** An autoimmune condition where the body's immune system attacks and destroys the insulin-producing cells in the pancreas, resulting in little to no insulin production. It's often diagnosed in children, teens, or young adults, but can develop at any age.\n*   **Type 2 Diabetes:** Occurs when the body either doesn't produce enough insulin or becomes resistant to insulin, meaning it can't use insulin effectively. This type is more common and often develops in adults, though it's increasingly seen in younger individuals.",
+      "source_numbers": [
+        4,
+        10,
+        11,
+        16,
+        25,
+        35,
+        39,
+        40,
+        42
+      ]
+    },
+    {
+      "question": "Why it happens",
+      "answer": "The exact cause of most types of diabetes is unknown, but a combination of genetic and environmental factors is believed to play a role.\n\n*   **Type 1 Diabetes:** Caused by an autoimmune reaction where the immune system mistakenly attacks and destroys insulin-producing cells in the pancreas. Genetic predisposition and environmental factors, such as viral infections, may contribute.\n*   **Type 2 Diabetes:** Often begins with insulin resistance, where cells don't respond normally to insulin. The pancreas initially tries to compensate by making more insulin, but over time, it can't keep up, leading to high blood glucose. Factors like being overweight, physical inactivity, genetics, and family history contribute to its development.",
+      "source_numbers": [
+        4,
+        11,
+        16,
+        25,
+        35,
+        40,
+        43
+      ]
+    },
+    {
+      "question": "Who is at risk",
+      "answer": "*   **Type 1 Diabetes:** Risk factors include a family history of diabetes and certain genetic markers.\n*   **Type 2 Diabetes:** Risk factors include age (especially over 45), being overweight or obese, physical inactivity, family history of diabetes, certain ethnic backgrounds (e.g., Black/African American, Hispanic/Latino, American Indian, Asian American, Pacific Islander), a history of prediabetes or gestational diabetes, high blood pressure, high cholesterol, and polycystic ovary syndrome (PCOS).",
+      "source_numbers": [
+        4,
+        25,
+        35,
+        39,
+        40
+      ]
+    },
+    {
+      "question": "Signs or warning signs",
+      "answer": "Many people with type 2 diabetes may not notice any symptoms, or symptoms can develop slowly over several years. Type 1 diabetes symptoms can appear suddenly.\n\nCommon symptoms for both type 1 and type 2 diabetes include: \n*   Frequent urination (especially at night)\n*   Increased thirst\n*   Increased hunger\n*   Unintended weight loss\n*   Fatigue or tiredness\n*   Blurred vision\n\nAdditional symptoms that may be more common in specific types:\n*   **Type 1 Diabetes:** Nausea, vomiting, stomach pains, or fruity-smelling breath. In children, new bed-wetting can be a sign.\n*   **Type 2 Diabetes:** Slow-healing sores or frequent infections, areas of darkened skin (often in armpits or neck), and tingling or numbness in hands or feet.",
+      "source_numbers": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        12,
+        13,
+        14,
+        18,
+        20,
+        22,
+        23,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "question": "How professionals assess it",
+      "answer": "Doctors diagnose diabetes, prediabetes, and gestational diabetes using blood tests that measure blood glucose levels. These tests can also help identify the type of diabetes.\n\nCommon diagnostic tests include:\n*   **A1C test (Glycated Hemoglobin Test):** This test doesn't require fasting and shows your average blood sugar level for the past 2 to 3 months. An A1C of 6.5% or higher indicates diabetes.\n*   **Fasting Plasma Glucose (FPG) test:** Measures blood glucose levels after an overnight fast. A level of 126 mg/dL (7.0 mmol/L) or higher indicates diabetes.\n*   **Oral Glucose Tolerance Test (OGTT):** Measures blood glucose levels before and 2 hours after drinking a sugary drink. A 2-hour plasma glucose of 200 mg/dL (11.1 mmol/L) or higher suggests diabetes.\n*   **Random Plasma Glucose test:** Can be used in individuals with classic symptoms of hyperglycemia (e.g., frequent urination, increased thirst, unexplained weight loss) or hyperglycemic crises. A random blood glucose of 200 mg/dL (11.1 mmol/L) or higher indicates diabetes.",
+      "source_numbers": [
+        26,
+        28,
+        29,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "question": "Treatment or management",
+      "answer": "Managing diabetes involves a personalized treatment plan focused on controlling blood sugar levels and preventing complications.\n\n*   **Type 1 Diabetes:** Requires lifelong insulin therapy, typically administered through injections or an insulin pump, as the body produces little to no insulin. Regular blood sugar monitoring, a healthy diet, and regular exercise are also crucial.\n*   **Type 2 Diabetes:** Often managed initially through lifestyle changes, including a healthy diet, regular physical activity, and weight loss. If lifestyle changes are insufficient, oral medications or insulin may be prescribed.\n\nTreatment strategies also involve regular blood glucose monitoring and, for some, medications like SGLT2 inhibitors and GLP-1 receptor agonists.",
+      "source_numbers": [
+        4,
+        10,
+        11,
+        25,
+        30,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        42
+      ]
+    },
+    {
+      "question": "Prevention/risk reduction",
+      "answer": "Type 1 diabetes is an autoimmune condition and is not preventable.\n\nType 2 diabetes can often be prevented or delayed through lifestyle changes.\n\nKey prevention strategies for Type 2 diabetes include:\n*   **Weight loss:** Losing a modest amount of weight (5-7% of starting body weight) can significantly reduce risk.\n*   **Increased physical activity:** Aim for at least 150 minutes of moderate aerobic activity per week, spread across most days.\n*   **Healthy eating:** Focus on a diet rich in fiber (fruits, non-starchy vegetables, legumes, whole grains) and healthy fats, while limiting added sugars and unhealthy fats.",
+      "source_numbers": [
+        1,
+        5,
+        19,
+        24,
+        25,
+        35,
+        40,
+        42
+      ]
+    },
+    {
+      "question": "Complications",
+      "answer": "Long-term high blood sugar levels from unmanaged diabetes can lead to serious and potentially life-threatening complications, developing gradually over time.\n\nComplications can include:\n*   **Cardiovascular disease:** Increased risk of heart disease, stroke, high blood pressure, and narrowed blood vessels.\n*   **Nerve damage (diabetic neuropathy):** Can cause numbness, tingling, burning pain, or loss of feeling, often starting in the hands or feet. It can also affect digestive and sexual function.\n*   **Kidney disease:** Damage to blood vessels in the kidneys, potentially leading to kidney failure.\n*   **Eye damage:** High blood sugar can damage blood vessels and lenses, causing blurry vision, diabetic retinopathy, glaucoma, or cataracts, potentially leading to vision loss or blindness.\n*   **Foot problems:** Caused by nerve damage and reduced blood flow, leading to infections, sores, and potentially amputation if untreated.\n*   **Skin and mouth conditions:** Including gum disease, frequent infections, and slow-healing sores.",
+      "source_numbers": [
+        3,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        15,
+        17,
+        40,
+        43
+      ]
+    },
+    {
+      "question": "When urgent help is needed",
+      "answer": "Seek immediate medical attention or call for emergency assistance if you experience severe symptoms related to diabetes.\n\nThis includes:\n*   **Severe Hypoglycemia (very low blood sugar):** Symptoms like confusion, blurred vision, fainting, or seizures.\n*   **Severe Hyperglycemia (very high blood sugar):** Blood sugar levels over 300 mg/dL (16.7 mmol/L) that do not decrease with usual treatments.\n*   **Diabetic Ketoacidosis (DKA):** Symptoms may include fruity-smelling breath, rapid breathing, extreme fatigue, nausea, vomiting, or severe abdominal pain.\n*   **Signs of serious infection:** Especially in wounds that are not healing, with warmth, redness, or swelling.\n*   If you are sick and cannot keep food or fluids down due to vomiting or diarrhea.\n*   Any new or worsening complications like sudden vision changes or severe pain/numbness in extremities.",
+      "source_numbers": [
+        7,
+        21,
+        22,
+        27,
+        34,
+        36
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Diabetes is a chronic condition affecting how the body processes blood sugar, caused by insufficient insulin production or ineffective insulin use.",
+      "source_numbers": [
+        35,
+        40
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Type 1 diabetes is an autoimmune disease requiring lifelong insulin, while Type 2 is often linked to lifestyle and insulin resistance, manageable with diet, exercise, and sometimes medication or insulin.",
+      "source_numbers": [
+        4,
+        10,
+        11,
+        31,
+        39,
+        42
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Unmanaged diabetes can lead to severe complications, including heart disease, kidney failure, nerve damage, and vision loss, but Type 2 diabetes is often preventable through lifestyle changes.",
+      "source_numbers": [
+        1,
+        6,
+        8,
+        9,
+        17,
+        19,
+        40,
+        43
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Introduce diabetes and its main types.",
+      "headline": "What is Diabetes?",
+      "short_copy": "Diabetes is a chronic condition impacting how your body manages blood sugar. It has two main types: Type 1 and Type 2.",
+      "visual_direction": "An illustration showing glucose molecules and insulin, with two distinct paths for Type 1 and Type 2 icons.",
+      "source_numbers": [
+        35,
+        40
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Explain the causes and who is at risk for each type.",
+      "headline": "Causes & Risk Factors",
+      "short_copy": "Type 1 is autoimmune. Type 2 involves insulin resistance, influenced by genetics, inactivity, and excess weight.",
+      "visual_direction": "Split graphic: one side with immune system attacking pancreas (Type 1), other side with unhealthy food/sedentary lifestyle icons (Type 2).",
+      "source_numbers": [
+        16,
+        25,
+        35
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Inform about common symptoms and how diabetes is diagnosed.",
+      "headline": "Symptoms & Diagnosis",
+      "short_copy": "Look for increased thirst, urination, and fatigue. Diagnosis requires blood tests like A1C, Fasting Plasma Glucose, or an OGTT.",
+      "visual_direction": "Icons representing a person drinking water, a restroom sign, a tired person, and a lab technician with blood test vials.",
+      "source_numbers": [
+        7,
+        12,
+        26,
+        29
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Outline treatment approaches and ongoing management.",
+      "headline": "Managing Diabetes: Your Health Plan",
+      "short_copy": "Type 1 needs insulin. Type 2 is managed with lifestyle changes, medication, and sometimes insulin. Healthy habits are key.",
+      "visual_direction": "Icons for insulin pen, medication pills, healthy food plate, and a person exercising.",
+      "source_numbers": [
+        10,
+        31,
+        33,
+        42
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Discuss prevention for Type 2 and potential complications if unmanaged.",
+      "headline": "Preventing Type 2 & Avoiding Complications",
+      "short_copy": "Type 2 is often preventable with weight loss and activity. Unmanaged diabetes risks heart, kidney, nerve, and eye damage.",
+      "visual_direction": "One side showing a person engaging in physical activity (prevention), the other side with icons of a heart, kidney, and eye with caution symbols (complications).",
+      "source_numbers": [
+        1,
+        6,
+        8,
+        9,
+        19
+      ]
+    }
+  ],
+  "cautions": [
+    "Avoid unsupported claims about diabetes cures."
+  ],
+  "questions_for_review": [],
+  "disclaimer": "This information is for educational purposes only and not a substitute for professional medical advice. Always consult with a qualified healthcare provider for diagnosis and treatment of any medical condition.",
+  "medical_review_required": true,
+  "sources": [
+    {
+      "title": "onehealthng.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLNawMinp1z4cpJEuyU6szuamjtAMSBhrTcpMJRGjX0fjjZKtdc0O5GwyJsmWZ-VU9qWd3aq_W32IU9iXNDpsX3EvhrtlNnDT61gpZi4wcZbsf-4yFz5zGF3lt9P3EZ_qrzorBGepwNqeBlX2dS4gvRRBoOpBOc-hdZBnLUH3ClvUROlAf1zYvAcsvh4ukkU6PsbgHnVCopOmrIERJ6KED8lZj_w==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "who.int",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGosePEnxRuolBpdir_Gs-FGRkWUXWZN8hjR45K7QvWjCw6USwtnoKRkh9v0JSD9wlvLhrjlWrHL5Bhxg7TpuA7O24CLPuD7CN7SY6hYYrJunYgcmRQf2W73iok2-V6rgq3mir7Ql44-py22NpGAh5EVPQGVA==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "jamaicahospital.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyLYQvuyalMnlpnhw2Xz5g7lw35-YPioc4pf4XM5wzGaAKFflShnU3mTrU93tH0u_c9ApJ9UPZqtjKUXg4M-tvyMhbOnZ4TRW6ngAIDYVJPfbi2tFqAIc1ASRS1dyDWtDa2z4vhWj70TGqzbSten4yWy8Dpz6U8EseaBKHOY3pbS1wuob9wuJK6ODycvrgWB51B35j",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "medlineplus.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTgAqep8X1Dt_JahtRGdIWgT0ApIFEb_AX41yMH4RePaV7MnI3ahrkazm2hk-wUOJpD6V1OBmJMhXJkkC6vD7zJSkvYWwMRF5RRtd0bxucNVLK0Cqa9p6-7pS8GdpkR0Vje-i2lQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "omron-healthcare.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1eppYL-zOsEGVHb5CnPUlQ8sv5fxJSpQcJ1ix2m45VpVcI7-JKMf9gqyEygRI_zFWgUrzfDfbQ9ZwRBl4oecTNTPSDV6Rc3T71e1P8yQSwIT_TGZ1WyFM_HWLcFpsscJ_lfxMbsf8mRx4Iik1pa9SojLw2ZUh1u95RRfjh0DEk2FGnhtWW9XS3qBREiR-Vwyh5m_EFmTZ87LqqIgujgKOtKDinWq_sw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "bonsecours.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EVYFqCo37dtdkn5tfEfmQYTtirfPctsegKKTWA45FO9ceXuDFXBYkeBJJVhcN3aQBDoxFnn7vZCWrPCfQSmhdIdk0f5RAL3nTksuxPFDoIMRitYP3JZRjXFwwgoc3L28zYfckFPBSrQXoxocvPsc7vmeNLPfbnlIEfll2oTnASA=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "henryford.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTi44-bsjrnFbUnmMbqpjW8zfhdJZn5pE8iLAIn68ZXtAD_p1_62TuKtGx3RDMIMe_7pe5pxpzTOYMy7ZOcXHULu7AIq4bT4_MoWIePps7_aLLMrIBuLXkLaoVlOfdqZ1Eku4YehFSLCfAu0jVrSfOuZfvoU2JBI9AtC99ODEjzB_xUw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "medicalnewstoday.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVixVH5PY3yKj2X0QnvwIf3PP0WIE9MEsBcUSRu6PMBkIq1qJJSqIViA43PaQUU0TGA_uDTxr820bvJcS7n6oHblk5vQPKg5Yf8bwYm_V-C5x2fmAxAwtQPzMf8k6bfzqZuZfQa-zk8d4O3w==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetesresearchconnection.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMPnu1rn0cq_ynnHy76SNTSHLpx9by2exG9KTj5F2DIKSfmlRv4_zkHDytRs_xRub0VEvaI050PyRLwKOSeI5wE6vwBob-7wo1ah4ektBAL7TaOccchQtdVTuYPe7a4VgVH6t8nbi5jX34eQwjMpROfwMXiLSH9yqUReVOfS6qZukaIIT-",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs1vfyTMZxcaVLl3ICuH2oMQSSA1kt6Vo-TwyCVAwUit4QK6g9ZGpi8pA69ipxDmObfaNI1eNkPW3FArs8Ug8ayikP9iKfmIoB5Z_RF8CY3Eh9YuKGjOugv8J8LC6ZIb4Hsa8H5IsxYFl8wtROBdOmOahQT1Yhe-cRj2pkQi4DbdouLkNEKPpXbyirHjIovw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "cdc.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0pBkIM3aB-Au_wRE2o4qfWYxslsNTIrPbGktqWStFJXAKKd58IB2M5_4ue03D3FU-BOcrNPfdTlZDNYxWg-ga_VMcod5qcI-b7BiBldrpJO2gVPGJS6YOvguYqnh3EmwFFAcXrDhf8UM9qYjlFsIstQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaUkRwUKI6NHemet5pQAdZH4LcY51qBsYCya60_MZ2Rdx4gtkdfBflY9u3ppQ3xiRwkB8WKC1Vkf_uv2XpishWA8GN1ASCIP7Asnf8v9OwWaeKaCyR8Ks-YI1Nk1EtZEIHt3yQ4WhZUskCphJbdfPwXsul_rxC46iGgseeOXz3KtwQJNZeR8RJpJNp3iSeDf8rIEGBzs=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "breakthrought1d.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDOtQV-cjOB91CGzkPacuIF5JTCxI31UxupOmaPAlUv6BiLrpGm4W4J37GMlqmK8o6WU2wluaOPqkZFHd5gMr13WEFK5DtWqlvrxSSH35l9_qscAY5YteDzv4AqNnKEhyuG7qumEEf6gale2nir9POrQxJwTydHilubTI75Dkja4xOyIk4lTKfmGic0eEy-n__N-WM65T4eyDhHIHFh-ev-iTtHGJYlo=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "kaiserpermanente.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG27xYF1aZ3nHumBFmlI4WjEROmf83VHohVi_6qNuTC_tJx1Fc-sIl2MCw0ZrBRppShdLzXMAmBrlwsx8bN94F3TgZbPc05L_sbFNfxIxdB_7qz9FSjfNTNSj7dkq0zHM0QPy_YmvXNbA2BtDlvgZlUbHdUjY5mX3q57UhEj2LUHKH-ybwzKQ_TLwmR7NidBg8pD1M=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "bswhealth.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHybWKrqJZ9xf39Z8f45Rn6dIaGQGMQMG4mr54rcR_LYJSMheRNWmJ1P4qDNNpzPsfIzUL_BXyc7QhGjk2gv3tdQXZR3BAGApJ_3vPtFuU-ED9WEJi7j61GBwhg8CvUP6HH_Vyl6T2r_mxQZvcC6jTumK8ceThQVTR9LnlH9XHuf6Ps",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvIPStyFb6YSS0gTBm4mxCnbK1j2IYneI3_N2rvUrXWlxNV7qGOtJy0P3mejixWG2MbKUZv6Q_CFyhdRoqtIWUHyf4afrBelrFwAe_pfw5UWZRYWDrI4QNo8WHP3omPinC-3df3LzlMTdiRoJRTy5RtwXdJWSBPHJFmbkF9qCs9bhZFXjxjh5EiXQUrvjaMCq4OzddfbU=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "www.nhs.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBLo8JjJSF7r2pCOxUKAvaRKTgPBZRyCiTwxdqQ0gRepd-VNblJRJRTS50pUfTeIaFfMv11_T7SjpqHGIHWMFVMG0uPc3bn_TUX_B1GvRXGYA6DJr-zbt0iHafKwTN7nx8Qp1iPa-7gPlVP3b9JyVCsZE=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "www.nhs.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVOKswl1mhEUHPrbPEM-aYDviqGiQL6Wuoi4lwlstfBzkZ4Qy5oL9NM6TCfVWXCl1sQeyWHTl2Wq51iIzeG4N4mLo3j6A88_5K1BEC-oSggg7RUPNmDcCMbjABGQzE6J97Nn-5N1lHco1ZZhQswuBIE1s=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "ihs.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9m2TkDb-CzEVNVJtt8XlfBA2cLnMb2_Aq75snTNBqGk3rLheI1xzKvt27c1zlE9eMzG5TrWtgmPIwlD5gPaS61z9GYqhedPEks4pcuxg5kUIoV43rncf4c-DS4EdUgroG4pmPphQE1Y-F3fHLrHyUMUafqWS1RZGIirPWw0-6-bGbEw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "villagemedical.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4pYgGQd5-nc0tWEXfcWAbjDnIw-uewUpDbs5MijmZqdUvsz17VQracoCTs5QY-jnxwdXM8U0ffOSm-9FU4Ywze6AnLUNYH_6JtAvjLFUA7PUbt2FNub7oOT8ctAsctn69r1jYr1pAvxn7aIGh5vf5XzDMv__-kVcJGugz5ePPZ9C3n7fzvasvrBW8EXlvmWX6OJlOg_CU4N-y",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "heart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDeXg7yi_Ty9kpgziHCXa4mV2CBSiApkcrD2o_QOsSq_5gSwkd7MJtxQS2A4gwwovGUAfbsoFYmPQ51ApxidT-Iz4PvSGHKfkRCJZxPFOa1NYSdfJAT-jDMuIcE7yJ-f_c9oDNbnM5JX35EKLQzAzSMTryzzhif3sCYxvIiICCgwypbodg9ZGLyRZv",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "choa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERZDPSTuB7LbxJpQnvElSKFqigPCZH4LSiiwUQWjoLYAhlOJTd_LwtjZ460XyD65eToNNiw4YxWTeHcF_9y3HjZ5ktKWW8rooaRE-w0dBPX8xVfJ9NwWVMZEqFIcpbmnB445tZjWFMEoqoi8zNK_52-L-fFFFo4uIcLgv5Xts4VHd5",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaaTRov_Edxamy-2Ofx-0bQob6HcZMd8hBEkvpj_Ar4GSF1ckGp78X-PQcxxddtlhG-6rCywvWBs_RCJ5hRji3CBDBkCHA2b7Lso5o72n39N6SC7HTyXse4oX4U3gfRrKNweLVpP-bq_UpEYKndQ_ckYIdYTRKHiwckuIOvOcLuaZcyelS4us6Jw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetesjournals.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE46UrK8JNPE7w_X1JflI258jyFpBEfnlTOQSU5AnYcwZbgAGWGAKtqbKajRuhuErnXou5ye2-5dY-yi9TZO9oCkGToicu8M2YYU2mL1BX0In1s2HOBGb3UChri6-YMIDgBRAaOWIRdOa3YieGRjpiBLXQNeKLv_0HLugM0L-hYj2468-onVm71eyl2XTD89ejnDgL0A9aH-TmvrQc625sDuJJiLGLlKNNa4Q==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetes.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0wwTBn4ZKRa51UYiV2huATooZU1eQSqmsCfcgKeJ22c_JE9CrOS7wNBkm7rrbxNefhPZt04T4o4i7ypPp15fFxYDlEqDuKtkg6TsgcQoY2zjkOKH8wD69SS4hFvHpPkwVS2yLK9hTwQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "utswmed.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY2TgOi7mfphL9kFXIFLGV4tTjhzm6bYI_zbwUGgVF_tKyu-hF0VDngID0KItXCpovOKQVv-diKfOpq_bEHluROT_6uh2jonFvPA-04GcD_K7EZZIFdlT5yD5E9qmt7sWvU0P4BMwzHJjSt35sPC7N4YUzqrMDNMITH7Pv2KnsxF085jezGXEjoQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "cvs.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2uPlZHms7bxdWshx_GgJM7S3gfZ4ynrujPIVcDXHOV31e4EPyXiI1-MAqF5Ai0giCYCtWIvLk6JMSlHS43-5664Tb_c34IEbtd7ERKYnacjHj5tRBqKC6olaZ2PetXY1biKddp9nuNT5AbehFCQfaWDlW3MSiKw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBerwduwWpxm4yGUH_NulVMPz7O-FPWjFGja13G-5kH3_T-Fvt3KAKY44VuP6hdFBloSUGKepoib-Pcw7vu3gPcOZsBd1-xO7NYuTljps_xTMrcbaEcXWU-q5HlNrLeKgYGCHxw4E1OQdCmJ2YaQM5YJ0kBJbV-OuVeegr1m4SuhII2WSoY_WhhqSrTwVZtJTkpLo=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoUpoeBjyJMUzehIBfvfaUGHxX83PuDBg3fYdIMtDrvULlwfDhYZskUlCUgEwmglARgHuJcCEwOvPBCfZyKPmnFJpasm6tLGdIUrdk1qOH8UoGAAxOXHcg9vYOR-Xn4z4WGgUc5Lc=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetes.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBhUGyte-_MXbnUDuhGxc2SXgaLXvBixMlZLHzMLZW3HQOG6uXku_AiCd1_3DhbAzd-LGkl4fFBThR8IzsFBaNGMKRFhixSDwyxKBGMXIuY40X2IgoSxrBr0asvvZIScoWvJVTp6QWPLdSnul4E8ocfU5e",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_EY4YTo37jcFYdQFanUWUJP-vbPrcLiVswk2IRXwaImdDrcDVSrAeJkj9qc2y_PQnbv4-9yXVJZzyRS3YitEVJEe166DDOk_L1OtVjLZknxD8HsKGUugXPB_36PuSCqXJeZv8tHzkawB28RXd",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPkvQCZ5-K1UjEv1NgkN-P8D0I3mAr5TCCA_26R-3EGBoQ11Ev1p3906GQa5bT5mNuTOX0TWc8SJ0ka414xO2i6NX3WTxCRS_13nBvzCbH6vGrc9VU7NunD70ehXpZI9tFwSRXbXyCHE0TpsocT1zbO-v9dJQG3zClB_Kjx8UKdkjibydPon16cU0yXliDDsP2wgK",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "scripps.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDcjs7Ow4ziegzdGHYc9CPS-AXQNdj3s1A4505BXhF-HpybDvb05XmahZefooLSh_qhPPLbnI9GV7nU2XBQydObAcQWRl9xNy3hZeaXZIwiJ0OF9m6LHbtO9-LJusdIAHbtWW-kD9JgAQMXrD0BCoUXgrCyxgVKeJiqozoN5wDeSgvCA==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "uclahealth.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrlXD8p0HrsonaEZWEsbihr8A5yiniFG0RBhG_qUtiuokOp71vwzOh91xaS8-AMv9hjOND_0qU0gkPhMnkS2XQJo4TNZbjjCsTeBZ8cy9OWx1_zpv9AdaeUjQtcw2G5lh4_jaTof2BlvYIHbxfXogQjQ6PAt4LhGjyhf9l3DA=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmcSz5a7gfSHurpReV2JLH21cdOIsf3y0HLhY0osxwVVXjXznaVvEWZCbTJcPco8zcJ7KA1yjtFHvVawHTzA2kWa2wzF8jeCkF1stS95dJADxjSz1IiM2FkJJ98gKw2enB7EiC7ydz1x6fD1sL4I8wNBwWOWZsL0-qxuPBynaiQjIFS8GCDJCEpjxXw2URVN6uze0FKRiiSDeYABmsjm6c6NjR",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "endocrine.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2UWl5qCGGKbEiGLqpC_dzTdSxw6A3nOkSa0v-_79uV_La6HQ5mhz7LrZow-jAlgobPpH5U7CltzEFO-ZcwPxfzytwW08TS2aAWje0Y_GXra-4_ikVXLUYALxvkkn0qUxi4FJiJ-EMJrt3vL41xStXwQTM5EILWWM90O8_t0srKI9-BZuSVpfywmYjcEdvfNk=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "idf.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET4TTlrGHQCR1oxBuK5-_VbCBbnrEwP8Car9DAdYSDB6qKnI90lLABUThToIy4Je7HQR2TUpfqrVGwN3DtltOx2ngOsGs_O8cBfA2jz3pOBjXWJbguLXMTEZSf-rvETHjsiASL3EPPug==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "medlineplus.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMGxDphKbRtoJ6gOgbo4Kra_qoEeSOmpL9NBphB3tAsDbbvIhb0hlDaKBDKhuc0Nx3OfPI1Z0kTemxxAm7D5sLnhJ2BZ34pkqJlJI6OYKr_uJLseyDWmt0x5JUwpsVdS1-OPKOF7pKwJ9HjhnV",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetes.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZOZHgL_W0dD00TkumShx4qDn5MkSb7gtQcNHFH13-cKoQaNNy0w1B4XdpDo8m4okWIgCB9WZf6i2DgdTuD3W1RZMKQ01D8VB8IBSC180gHKB08s9CwHbER-B0AOFkcVb-tS0PGjiIhePO_Nc=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "accu-chek.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-1LsjzrBp31_mj4EiVd9Y1mPCc52tLzzwOwXWv4oDMZM2gWpx0HPIAjbl8iDf5hS7nUv2y1tYUz5UE3KyS6fUJSN3Bl6wWUnxWFirDW74_CXFwv8kzOzkRqgxMgzXfQ9tTzP2Jtlelq-OY1K6OA==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "totalcare.us",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAyMBzaQovA_6v0nz1599phxpScACj5uiJ462IBU9wMarFYNtf1Dmq6i055XuKzJRmSoL0VCOW2q-FyK6trxBL0aALhQ47d9WdbZedtLG3DIf7ycF-Uz1nPIaiEW21E8o0zazHEZll7PXzFxZCB0dEhoy0L4Fv-X2nETmjAEXYPL3fFT9FkGYFoBnGSAdOMLNSTVS5BO49",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "learningaboutdiabetes.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeS9jlQ1jq1thj7rF0kJvSK5EFMEBlNaDFYZAQY4k45m_JthVtqP8TbO4I0lCjg2EuJ7nScq3S_SsJWl7e9q_LfhWV1sl0XImWuPanXruVSr5J4-2ZNs3hCWrhaiymkZ4ETUm3A5nofVwpwSwfqPtKcirxbRhwTat-usJtHecZnt11TTawhbWuEfNoM8OO",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "utah.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL7BuKsP6stNUESAri6-aqaKqGOlLG2lCBjvBsqJReWpjNgXdGnG1fSAqjJ3XZ2iK75FivkeJP1rLc458PCXRdKXSBa1WiDHQIIfeWhEMzzEL4T-NZgYaQoUgO7atwTRVcmg2ziGKhI_a4i_VO14Jm1l1Cq3_OZlPMLgfQfo71lFzoQ99JGkk=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    }
+  ],
+  "user_prompt": "Research diabetes for an educational social-media carousel. Cover its types, causes and risk factors, common symptoms, diagnostic tests, treatment and ongoing management, prevention where applicable, complications, and when medical advice is needed. Distinguish type 1 from type 2 diabetes, avoid unsupported cure claims, and cite authoritative sources."
+}

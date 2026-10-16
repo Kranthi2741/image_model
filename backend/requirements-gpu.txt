@@ -1,0 +1,9 @@
+-r requirements.txt
+transformers==4.57.1
+diffusers==0.35.2
+accelerate==1.11.0
+safetensors>=0.4.5
+sentencepiece>=0.2.0
+protobuf>=4.25
+huggingface-hub>=0.34,<1.0
+fonttools>=4.50

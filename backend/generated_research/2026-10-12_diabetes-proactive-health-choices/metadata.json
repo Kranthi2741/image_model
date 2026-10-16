@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-10-12T13:19:40.003269",
+  "topic": "Diabetes: Proactive Health Choices",
+  "prompt": "Create a premium photographic campaign montage. MESSAGE TO COMMUNICATE WITHOUT WORDS: Illustrative depiction of the complex interplay between symptoms, risk factors, and management strategies for diabetes, emphasizing proactive health choices. CENTRAL FOCAL VISUAL: A close-up photograph of a hand gently checking a blood glucose meter reading, with a slightly blurred background showing a healthy, colorful fruit bowl and a water bottle. COMPOSITION: Circular montage with a central, dynamic focal point, surrounded by supporting scenes arranged in a flowing, layered composition. REQUIRED CONNECTED SCENES (include every scene): 1. Foreground, central visual.: A young adult meticulously measuring their blood glucose level with a digital meter, focused on the display.. Setting: A bright, modern kitchen with a countertop, natural light, and healthy food options.. Visual meaning: Routine monitoring of blood glucose levels is crucial for managing diabetes.. 2. Left side, supporting scene.: A detailed diagram illustrating the difference between Type 1 and Type 2 diabetes, showing insulin production and cellular response.. Setting: A clean, white background with a subtle gradient.. Visual meaning: Understanding the distinct mechanisms of Type 1 and Type 2 diabetes is key to appropriate management.. 3. Right side, supporting scene.: A diverse group of individuals engaging in various physical activities – walking, cycling, swimming – with a focus on joyful movement.. Setting: A park with lush greenery and a sunny sky.. Visual meaning: Regular physical activity is a cornerstone of diabetes prevention and management.. 4. Bottom left, supporting scene.: A close-up of a plate with a balanced, healthy meal – lean protein, whole grains, and plenty of vegetables.. Setting: A well-lit dining table with a simple, elegant design.. Visual meaning: Nutritional choices play a vital role in controlling blood glucose levels.. 5. Bottom right, supporting scene.: A person carefully selecting fresh fruits and vegetables at a farmer's market.. Setting: A vibrant farmer's market with colorful produce and friendly vendors.. Visual meaning: Prioritizing whole, unprocessed foods supports healthy blood sugar levels.. LAYOUT: Scenes are arranged around the central visual with soft photographic blends and layered photography. Consistent lighting is maintained throughout. Anatomical details are subtly incorporated to enhance realism. The overall composition emphasizes a proactive and positive approach to diabetes management. PALETTE: #FFFFFF, #E0E0E0, #8FBC8F, #669999, #A0D6B4, #FFD700. Preserve natural skin tones. Photorealistic people, authentic actions, detailed real materials, coherent natural light, polished photographic compositing. One dominant focal visual; secondary scenes clearly readable at social-post size. Soft transitions, no crowded grid. The dominant visual must communicate the requested subject through a concrete action, symptom, or care interaction. Never use a generic centered portrait, confident headshot, or unrelated smiling healthcare worker as the main visual. Relevant nonverbal symbols are allowed. No text, letters, numbers, labels, signs, captions, logos, watermarks, fake writing or interface panels. Keep the bottom 25 percent quiet for copy added later; keep faces unobstructed. Reserve the upper-left 28 percent width and 14 percent height for the brand logo. Avoid: medical equipment, doctors, patients, disease-awareness imagery, stones, feathers, abstract objects, logos, watermarks, gore. FORMAT: 1:1",
+  "slides": [
+    {
+      "slide": 1,
+      "path": "generated_research\\2026-10-12_diabetes-proactive-health-choices\\slide_01.png",
+      "headline": "Proactive Health: Managing Diabetes",
+      "slogan": "Take charge of your diabetes journey. Routine monitoring, informed choices…"
+    },
+    {
+      "slide": 2,
+      "path": "generated_research\\2026-10-12_diabetes-proactive-health-choices\\slide_02.png",
+      "headline": "Know Your Diabetes Types",
+      "slogan": "Understanding the distinct mechanisms of Type 1 (autoimmune) and Type…"
+    },
+    {
+      "slide": 3,
+      "path": "generated_research\\2026-10-12_diabetes-proactive-health-choices\\slide_03.png",
+      "headline": "Move Towards Better Health",
+      "slogan": "Regular physical activity is a cornerstone of diabetes prevention and…"
+    },
+    {
+      "slide": 4,
+      "path": "generated_research\\2026-10-12_diabetes-proactive-health-choices\\slide_04.png",
+      "headline": "Fueling Healthy Blood Sugar",
+      "slogan": "Nutritional choices play a vital role in controlling blood glucose…"
+    }
+  ],
+  "published": false
+}

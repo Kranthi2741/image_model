@@ -1,0 +1,164 @@
+{
+  "saved_at": "2026-10-12T23:50:12.876545",
+  "topic": "Hand Hygiene: Washing with Soap and Water",
+  "campaign_mode": "educational_carousel",
+  "summary": "A five-slide educational carousel demonstrating the proper technique for washing hands with soap and water to remove germs and prevent infection spread in clinical and public settings.",
+  "art_direction": "Clean clinical aesthetic using cool blues, teal, and white palette. Bold sans-serif typography for headlines. Flat vector illustrations of hands and water droplets. Trustworthy, calm, and authoritative tone suitable for hospitals and schools.",
+  "research_sections": [
+    {
+      "question": "What is hand hygiene?",
+      "answer": "Hand hygiene is cleaning hands to remove germs, dirt, and harmful chemicals.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "Why wash with soap?",
+      "answer": "Soap lifts germs from skin so water can rinse them away.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "When should hands be washed?",
+      "answer": "Before eating, after using the restroom, and after coughing or sneezing.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How long should washing take?",
+      "answer": "Scrub hands for at least 20 seconds to ensure effectiveness.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Wash hands for at least 20 seconds.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Soap lifts germs from skin rather than killing them.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Dry hands thoroughly to reduce germ transfer.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Wash before eating and after restroom use.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Use alcohol-based sanitizer if soap and water are unavailable.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Introduce importance of handwashing",
+      "headline": "Why Wash Your Hands?",
+      "short_copy": "Soap and water remove germs, dirt, and harmful chemicals.",
+      "bullet_points": [
+        "Protects you",
+        "Protects others",
+        "Prevents illness"
+      ],
+      "visual_direction": "Hero illustration of clean hands under running water with a shield icon.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Demonstrate lathering technique",
+      "headline": "Wet, Lather, Scrub",
+      "short_copy": "Wet hands with clean water, then apply soap.",
+      "bullet_points": [
+        "Cover all surfaces",
+        "Rub palms together",
+        "Create rich lather"
+      ],
+      "visual_direction": "Split-panel vector showing wet hands then soapy lather.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Emphasize duration",
+      "headline": "Scrub for 20 Seconds",
+      "short_copy": "Don't rush. Sing a song to time it.",
+      "bullet_points": [
+        "Between fingers",
+        "Under nails",
+        "Back of hands"
+      ],
+      "visual_direction": "Central clock icon surrounded by hand scrubbing positions.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Show rinsing and drying",
+      "headline": "Rinse and Dry Well",
+      "short_copy": "Rinse off soap, then dry with a clean towel.",
+      "bullet_points": [
+        "Rinse under water",
+        "Use clean towel",
+        "Turn off tap"
+      ],
+      "visual_direction": "Hands drying on a paper towel with a faucet icon.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "List key moments to wash",
+      "headline": "When to Wash",
+      "short_copy": "Wash before eating, after restroom, and after coughing.",
+      "bullet_points": [
+        "Before meals",
+        "After restroom",
+        "After coughing"
+      ],
+      "visual_direction": "Grid of four icons representing key moments to wash.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "cautions": [
+    "Soap does not kill all germs; use sanitizer if unavailable.",
+    "Avoid sharing towels to prevent cross-contamination."
+  ],
+  "questions_for_review": [
+    "Are there specific clinical guidelines for duration?",
+    "Should alcohol-based sanitizer be highlighted more?"
+  ],
+  "disclaimer": "This information is for educational purposes and does not replace professional medical advice.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Create a step-by-step hand hygiene infographic demonstrating proper handwashing with soap and water. Use clearly illustrated stages, short instructional captions, and a clean clinical design suitable for hospitals, schools, and public spaces."
+}

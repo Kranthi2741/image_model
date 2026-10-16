@@ -1,0 +1,150 @@
+{
+  "saved_at": "2026-10-12T22:47:31.935091",
+  "topic": "Stroke Awareness: Recognizing FAST and Calling Emergency Services",
+  "campaign_mode": "educational_carousel",
+  "summary": "Educational carousel teaching stroke recognition using the FAST method. Highlights warning signs, risk factors, and the critical need to call emergency services immediately for treatment.",
+  "art_direction": "High-contrast palette of emergency red, stark white, and deep charcoal. Bold, uppercase sans-serif typography for headlines. Flat vector medical illustrations with clear anatomical overlays. Urgent but calm emotional tone, prioritizing immediate action clarity.",
+  "research_sections": [
+    {
+      "question": "What is a stroke?",
+      "answer": "A stroke occurs when blood flow to part of the brain is blocked or a blood vessel bursts, damaging brain tissue.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What are the warning signs?",
+      "answer": "Common signs include sudden face drooping, arm weakness, and slurred or difficult speech, often remembered by the FAST acronym.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "Who is at risk?",
+      "answer": "Risk increases with high blood pressure, heart disease, smoking, diabetes, and advancing age.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "When is urgent help needed?",
+      "answer": "Emergency services must be called immediately at the first sign of symptoms; do not wait to see if they pass.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Stroke is a medical emergency requiring immediate attention.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "The FAST method helps identify stroke symptoms quickly.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Every minute without treatment can damage brain tissue.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "High blood pressure is a leading modifiable risk factor.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Treatment options depend on the type of stroke.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Establish urgency and define the emergency.",
+      "headline": "STROKE: TIME IS BRAIN",
+      "short_copy": "Recognize signs fast to save brain function.",
+      "bullet_points": [
+        "Call emergency immediately.",
+        "Every minute counts."
+      ],
+      "visual_direction": "Large clock icon merging with a brain silhouette on a red background.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Teach the FAST recognition signs.",
+      "headline": "CHECK THE FAST SIGNS",
+      "short_copy": "Look for these three warning signs now.",
+      "bullet_points": [
+        "Face drooping.",
+        "Arm weakness.",
+        "Speech difficulty."
+      ],
+      "visual_direction": "Three panels showing face, arm, and mouth with clear checkmarks.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Identify risk factors.",
+      "headline": "WHO IS AT RISK?",
+      "short_copy": "High blood pressure raises stroke danger.",
+      "bullet_points": [
+        "High blood pressure.",
+        "Heart disease.",
+        "Smoking history.",
+        "Age increases risk."
+      ],
+      "visual_direction": "Icon list of risk factors like heart, cigarette, and blood pressure cuff.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Drive immediate emergency action.",
+      "headline": "CALL EMERGENCY SERVICES NOW",
+      "short_copy": "Do not wait to see if symptoms pass.",
+      "bullet_points": [
+        "Note symptom start time.",
+        "Stay on the line.",
+        "Do not drive yourself."
+      ],
+      "visual_direction": "Phone icon with emergency number and arrow pointing to call button.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "cautions": [
+    "Symptoms vary by individual.",
+    "This is not medical advice.",
+    "Always consult a professional for diagnosis."
+  ],
+  "questions_for_review": [
+    "What is the local emergency number?",
+    "Are there specific regional stroke protocols?"
+  ],
+  "disclaimer": "This content is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Design a clear educational infographic explaining face drooping, arm weakness, speech difficulty, and the need to call emergency services immediately. Use simple medical illustrations, high-contrast labels, and a strong emergency action message."
+}

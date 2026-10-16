@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-10-12T15:36:05.985527",
+  "topic": "Maternal and Infant Mortality",
+  "prompt": "Research maternal mortality and infant mortality as two distinct but related outcomes. For each outcome, independently collect evidence about definitions, causes, affected populations, assessment, management, prevention, and urgent warning signs. Do not assign evidence about one outcome to the other. Report missing evidence separately for each section and outcome.",
+  "slides": [
+    {
+      "slide": 1,
+      "path": "generated_research\\2026-10-12_maternal-and-infant-mortality\\slide_01.png",
+      "headline": "Maternal & Infant Mortality Explained",
+      "slogan": "Two distinct outcomes tracked to improve health."
+    },
+    {
+      "slide": 2,
+      "path": "generated_research\\2026-10-12_maternal-and-infant-mortality\\slide_02.png",
+      "headline": "Why Do These Deaths Occur?",
+      "slogan": "Causes and risk factors differ but overlap."
+    },
+    {
+      "slide": 3,
+      "path": "generated_research\\2026-10-12_maternal-and-infant-mortality\\slide_03.png",
+      "headline": "Warning Signs to Watch",
+      "slogan": "Seek help immediately for these symptoms."
+    },
+    {
+      "slide": 4,
+      "path": "generated_research\\2026-10-12_maternal-and-infant-mortality\\slide_04.png",
+      "headline": "Prevention & Professional Care",
+      "slogan": "Quality care reduces risk for mother and baby."
+    },
+    {
+      "slide": 5,
+      "path": "generated_research\\2026-10-12_maternal-and-infant-mortality\\slide_05.png",
+      "headline": "When to Seek Urgent Help",
+      "slogan": "Do not wait if symptoms appear."
+    }
+  ],
+  "published": false
+}

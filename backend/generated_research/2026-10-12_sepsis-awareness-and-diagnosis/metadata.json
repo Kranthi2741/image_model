@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-10-12T14:49:03.348584",
+  "topic": "Sepsis Awareness and Diagnosis",
+  "prompt": "create a post to educate on sepsis and how to diagonisis sepsis",
+  "slides": [
+    {
+      "slide": 1,
+      "path": "generated_research\\2026-10-12_sepsis-awareness-and-diagnosis\\slide_01.png",
+      "headline": "What Is Sepsis?",
+      "slogan": "Sepsis is the body's extreme reaction to an infection. It…"
+    },
+    {
+      "slide": 2,
+      "path": "generated_research\\2026-10-12_sepsis-awareness-and-diagnosis\\slide_02.png",
+      "headline": "Warning Signs to Watch",
+      "slogan": "Look for fever, shivering, fast heart rate, or trouble breathing…"
+    },
+    {
+      "slide": 3,
+      "path": "generated_research\\2026-10-12_sepsis-awareness-and-diagnosis\\slide_03.png",
+      "headline": "Who Is At Higher Risk?",
+      "slogan": "Anyone can get sepsis, but risk is higher for babies…"
+    },
+    {
+      "slide": 4,
+      "path": "generated_research\\2026-10-12_sepsis-awareness-and-diagnosis\\slide_04.png",
+      "headline": "How Is It Diagnosed?",
+      "slogan": "There is no single test. Doctors check symptoms, vital signs…"
+    },
+    {
+      "slide": 5,
+      "path": "generated_research\\2026-10-12_sepsis-awareness-and-diagnosis\\slide_05.png",
+      "headline": "Treatment and Urgent Help",
+      "slogan": "Treatment starts immediately with antibiotics and fluids. Call emergency services…"
+    }
+  ],
+  "published": false
+}

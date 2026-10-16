@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-10-12T15:31:05.735774",
+  "topic": "Pregnancy and Infant Loss Awareness Month: Reducing Mortality Risks",
+  "prompt": "Context: Pregnancy and Infant Loss Awareness Month and how to reduce the mortality Objective: Create a social post in Instagram, facebook and linkedin Style: Use proRITHM Branding Kit Tone: Professional Audience: Anyone Response: Image for social media",
+  "slides": [
+    {
+      "slide": 1,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month-reducing-mortality-risks\\slide_01.png",
+      "headline": "Pregnancy and Infant Loss Awareness Month",
+      "slogan": "Honoring lives lost and supporting families through grief and prevention."
+    },
+    {
+      "slide": 2,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month-reducing-mortality-risks\\slide_02.png",
+      "headline": "Understanding Pregnancy and Infant Loss",
+      "slogan": "Miscarriage, stillbirth, and neonatal death are distinct medical events."
+    },
+    {
+      "slide": 3,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month-reducing-mortality-risks\\slide_03.png",
+      "headline": "Reducing Risk Through Care",
+      "slogan": "Preconception health and prenatal visits lower complications significantly."
+    },
+    {
+      "slide": 4,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month-reducing-mortality-risks\\slide_04.png",
+      "headline": "When to Seek Urgent Help",
+      "slogan": "Report bleeding, pain, or reduced movement immediately to your provider."
+    },
+    {
+      "slide": 5,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month-reducing-mortality-risks\\slide_05.png",
+      "headline": "You Are Not Alone",
+      "slogan": "Grief counseling and bereavement care support healing after loss."
+    }
+  ],
+  "published": false
+}

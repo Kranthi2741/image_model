@@ -1,0 +1,164 @@
+{
+  "saved_at": "2026-10-12T22:38:12.482758",
+  "topic": "Cancer Awareness: Screening, Evaluation & Support",
+  "campaign_mode": "educational_carousel",
+  "summary": "A compassionate campaign promoting early cancer detection through screening and evaluation. Highlights risk factors, warning signs, professional assessment, and patient support without promising cures.",
+  "art_direction": "Warm, hopeful palette (soft teal, warm beige, deep navy). Clean sans-serif typography. Photorealistic imagery with soft lighting and meaningful icons. Emotional tone: reassuring, professional, empathetic.",
+  "research_sections": [
+    {
+      "question": "What is cancer screening?",
+      "answer": "Routine tests check for cancer before symptoms appear.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "Who is at risk?",
+      "answer": "Age, genetics, and lifestyle influence cancer risk.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What are warning signs?",
+      "answer": "Persistent changes in the body need evaluation.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How is support provided?",
+      "answer": "Emotional and medical support improves quality of life.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Early detection often leads to more treatment options.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "review"
+    },
+    {
+      "claim": "Screening eligibility depends on age and risk.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "review"
+    },
+    {
+      "claim": "New symptoms require professional evaluation, not self-diagnosis.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "review"
+    },
+    {
+      "claim": "Support services help patients and families cope.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "review"
+    },
+    {
+      "claim": "Screening does not guarantee prevention or cure.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "review"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Introduce campaign and preserve doctor/patient interaction",
+      "headline": "Early Detection: A Compassionate First Step",
+      "short_copy": "Compassionate care begins with open conversations about your health.",
+      "bullet_points": [
+        "Talk openly with your doctor",
+        "Ask about screening options",
+        "Share your family history"
+      ],
+      "visual_direction": "Compassionate doctor speaking with a patient in a modern hospital, soft lighting.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Distinguish screening from symptom evaluation",
+      "headline": "Screening vs. Symptom Evaluation",
+      "short_copy": "Screening checks healthy people; evaluation checks specific concerns.",
+      "bullet_points": [
+        "Screening: routine checks for no symptoms",
+        "Evaluation: investigating new or changing signs",
+        "Both are vital for early detection"
+      ],
+      "visual_direction": "Split illustration: routine check icon vs. magnifying glass over body outline.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Highlight risk factors and warning signs",
+      "headline": "Know Your Risk & Warning Signs",
+      "short_copy": "Family history and body changes matter.",
+      "bullet_points": [
+        "Age and genetics influence risk",
+        "Unexplained weight loss needs attention",
+        "Persistent changes need evaluation"
+      ],
+      "visual_direction": "Infographic icons for genetics, lifestyle, and body warning signs.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Explain assessment and support",
+      "headline": "Assessment, Treatment & Support",
+      "short_copy": "Tests guide care; support guides you through it.",
+      "bullet_points": [
+        "Professionals assess results carefully",
+        "Treatment plans are personalized",
+        "Support groups improve well-being"
+      ],
+      "visual_direction": "Doctor reviewing results with patient, plus support network icon.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Call to action for next steps",
+      "headline": "Take the Next Step Today",
+      "short_copy": "Talk to your doctor about appropriate screening.",
+      "bullet_points": [
+        "Schedule a routine check-up",
+        "Discuss your personal risk factors",
+        "You are not alone"
+      ],
+      "visual_direction": "Warm handshake or appointment calendar icon with contact info placeholder.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "cautions": [
+    "Screening eligibility depends on the person and cancer type.",
+    "Never promise a cure or guaranteed outcome.",
+    "Distinguish routine screening from evaluation of symptoms."
+  ],
+  "questions_for_review": [
+    "Specific screening guidelines vary by region and individual history."
+  ],
+  "disclaimer": "This information is educational and not medical advice. Consult a healthcare provider for personal guidance.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Create an empathetic cancer awareness campaign image highlighting the value of appropriate screening, early medical evaluation, and patient support. Show a compassionate doctor speaking with a patient in a modern hospital, with a bold headline and reassuring educational copy."
+}

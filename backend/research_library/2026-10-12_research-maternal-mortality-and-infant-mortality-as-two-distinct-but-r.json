@@ -1,0 +1,166 @@
+{
+  "saved_at": "2026-10-12T15:34:19.159983",
+  "topic": "Maternal and Infant Mortality",
+  "campaign_mode": "educational_carousel",
+  "summary": "Maternal and infant mortality are distinct health outcomes tracked separately. This carousel explains definitions, risks, warning signs, prevention, and when to seek urgent care for both.",
+  "research_sections": [
+    {
+      "question": "What are the definitions and distinctions?",
+      "answer": "Maternal mortality is death during pregnancy or within 42 days to one year postpartum. Infant mortality is death before the first birthday. Pregnancy loss and stillbirth are separate terms.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What causes these outcomes and who is at risk?",
+      "answer": "Causes include hemorrhage, infection, hypertension, and birth complications. Risks increase with age, lack of care, poverty, and pre-existing conditions. Outcomes vary by region and socioeconomic status.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How are outcomes assessed, managed, and prevented?",
+      "answer": "Professionals monitor vitals, fetal heart rate, and growth. Prevention involves prenatal care, skilled birth attendance, and immunizations. Most deaths are preventable with quality care.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What are the warning signs and urgent needs?",
+      "answer": "Severe bleeding, headache, fever, reduced fetal movement, or breathing trouble require immediate attention. Postpartum care remains critical up to one year after birth.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Maternal mortality ratio measures deaths per 100,000 live births.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Most maternal deaths are preventable with quality care.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Infant mortality rates vary widely by region and status.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Postpartum care remains critical up to one year after birth.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Skilled birth attendance reduces risk of complications significantly.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Introduce topic and definitions",
+      "headline": "Maternal & Infant Mortality Explained",
+      "short_copy": "Two distinct outcomes tracked to improve health.",
+      "bullet_points": [
+        "Maternal death during/after pregnancy.",
+        "Infant death under one year.",
+        "Distinct from stillbirth/loss."
+      ],
+      "visual_direction": "Split icon graphic showing mother and baby",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Explain causes and risk factors",
+      "headline": "Why Do These Deaths Occur?",
+      "short_copy": "Causes and risk factors differ but overlap.",
+      "bullet_points": [
+        "Bleeding, infection, high blood pressure.",
+        "Lack of prenatal care.",
+        "Poverty and distance to clinics."
+      ],
+      "visual_direction": "Risk factor icons with warning colors",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "List warning signs",
+      "headline": "Warning Signs to Watch",
+      "short_copy": "Seek help immediately for these symptoms.",
+      "bullet_points": [
+        "Heavy bleeding or severe pain.",
+        "Fever or chills.",
+        "Baby not moving.",
+        "Severe headache or vision changes."
+      ],
+      "visual_direction": "Alert icons next to symptom text",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Explain prevention and care",
+      "headline": "Prevention & Professional Care",
+      "short_copy": "Quality care reduces risk for mother and baby.",
+      "bullet_points": [
+        "Regular prenatal visits.",
+        "Skilled birth attendance.",
+        "Vaccinations and nutrition."
+      ],
+      "visual_direction": "Healthcare provider graphic with checkmarks",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Call to action for urgent help",
+      "headline": "When to Seek Urgent Help",
+      "short_copy": "Do not wait if symptoms appear.",
+      "bullet_points": [
+        "Trouble breathing.",
+        "Fainting or confusion.",
+        "Severe abdominal pain.",
+        "Contact emergency services now."
+      ],
+      "visual_direction": "Phone and emergency services graphic",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "cautions": [
+    "Not a substitute for professional medical advice.",
+    "Definitions vary by national reporting standards.",
+    "Missing evidence on specific regional disparities."
+  ],
+  "questions_for_review": [
+    "Maternal mortality data gaps on postpartum care access.",
+    "Infant mortality causes vary by low vs high income settings."
+  ],
+  "disclaimer": "Educational content only. Not medical advice. Consult a healthcare provider for personal concerns.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Research maternal mortality and infant mortality as two distinct but related outcomes. For each outcome, independently collect evidence about definitions, causes, affected populations, assessment, management, prevention, and urgent warning signs. Do not assign evidence about one outcome to the other. Report missing evidence separately for each section and outcome."
+}

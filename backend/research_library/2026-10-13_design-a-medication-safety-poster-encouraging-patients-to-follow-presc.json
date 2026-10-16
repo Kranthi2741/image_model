@@ -1,0 +1,162 @@
+{
+  "saved_at": "2026-10-13T00:53:28.988195",
+  "topic": "Medication Safety for Patients",
+  "campaign_mode": "educational_carousel",
+  "summary": "A five-slide educational carousel guiding patients on medication safety. It covers following prescriptions, verifying labels, disclosing allergies, consulting clinicians before changes, and recognizing warning signs for safe medicine use.",
+  "art_direction": "Clean clinical palette of teal, slate, and white. Rounded sans-serif typography. Flat vector iconography mixed with diverse human illustrations. Reassuring, authoritative, and accessible tone.",
+  "research_sections": [
+    {
+      "question": "What is medication safety?",
+      "answer": "Medication safety involves preventing harm from the use of medicines. It requires accurate prescribing, dispensing, and patient adherence to reduce errors.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "Why do medication errors happen?",
+      "answer": "Errors often stem from unclear labels, missed allergy information, or patients changing doses without professional guidance.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How can patients prevent errors?",
+      "answer": "Patients can prevent errors by reading labels, disclosing allergies, and consulting clinicians before altering any medication regimen.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "When should urgent help be sought?",
+      "answer": "Seek immediate help for severe reactions like difficulty breathing, swelling, or rash after taking medicine.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Medication errors are a leading cause of preventable harm.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Disclosing all allergies prevents severe adverse drug reactions.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Reading labels reduces dosing mistakes significantly.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Consulting a pharmacist before changes avoids dangerous interactions.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Never stop prescribed medication without medical advice.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Introduce the campaign and engage the patient.",
+      "headline": "Medication Safety Starts With You",
+      "short_copy": "Small steps protect your health. Learn how to use medicines safely every day.",
+      "bullet_points": [
+        "Follow your prescription exactly",
+        "Know your medicine name",
+        "Ask questions freely"
+      ],
+      "visual_direction": "Diverse patient holding a medication list, smiling at clinician.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Encourage adherence to prescribed instructions.",
+      "headline": "Follow Your Prescription",
+      "short_copy": "Take the right dose at the right time. Do not skip or double up.",
+      "bullet_points": [
+        "Take exactly as directed",
+        "Do not skip doses",
+        "Finish the full course"
+      ],
+      "visual_direction": "Icon of clock and pill bottle with checkmark.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Highlight label checking and allergy disclosure.",
+      "headline": "Check Labels & Allergies",
+      "short_copy": "Read every label carefully. Tell your team about every allergy you have.",
+      "bullet_points": [
+        "Read the label each time",
+        "Disclose all allergies clearly",
+        "Check expiration dates"
+      ],
+      "visual_direction": "Magnifying glass over label, allergy alert icon.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Emphasize consulting professionals before changes.",
+      "headline": "Consult Before Changing",
+      "short_copy": "Never stop or change medicine without talking to a clinician or pharmacist first.",
+      "bullet_points": [
+        "Ask before stopping meds",
+        "Check for interactions",
+        "Use one pharmacy"
+      ],
+      "visual_direction": "Patient and pharmacist talking at a counter.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Identify warning signs requiring urgent help.",
+      "headline": "Know Warning Signs",
+      "short_copy": "Seek help if you feel unwell after taking medicine. Report side effects.",
+      "bullet_points": [
+        "Rash or swelling",
+        "Trouble breathing",
+        "Call emergency services"
+      ],
+      "visual_direction": "Warning triangle icon, phone contact.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "cautions": [
+    "Avoid implying patients are solely responsible for healthcare system errors."
+  ],
+  "questions_for_review": [
+    "Verify emergency contact protocols for the specific target audience region."
+  ],
+  "disclaimer": "This information is for educational purposes only and does not replace professional medical advice.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Design a medication safety poster encouraging patients to follow prescriptions, check medicine labels, disclose allergies, and consult a clinician or pharmacist before changing medication. Use clear icons and a professional healthcare layout."
+}

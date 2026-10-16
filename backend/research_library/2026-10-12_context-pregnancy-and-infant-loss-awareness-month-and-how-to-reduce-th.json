@@ -1,0 +1,140 @@
+{
+  "saved_at": "2026-10-12T15:29:38.455969",
+  "topic": "Pregnancy and Infant Loss Awareness Month: Reducing Mortality Risks",
+  "campaign_mode": "educational_carousel",
+  "summary": "October honors lives lost during pregnancy and infancy. This carousel explains loss types, risk reduction strategies, warning signs, and support resources to improve outcomes and honor memories.",
+  "research_sections": [
+    {
+      "question": "What types of pregnancy and infant loss are recognized?",
+      "answer": "Loss includes miscarriage (before 20 weeks), stillbirth (after 20 weeks), and neonatal death (first 28 days). Definitions vary by region and health organization.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How can risks be reduced before and during pregnancy?",
+      "answer": "Preconception care, managing chronic conditions, avoiding alcohol and tobacco, and attending regular prenatal visits significantly lower risks of complications and loss.",
+      "source_numbers": [
+        2
+      ]
+    },
+    {
+      "question": "What are warning signs requiring immediate medical attention?",
+      "answer": "Vaginal bleeding, severe abdominal pain, decreased fetal movement, fever, or severe headaches require prompt evaluation by a healthcare professional.",
+      "source_numbers": [
+        3
+      ]
+    },
+    {
+      "question": "What support is available after a loss?",
+      "answer": "Grief counseling, support groups, and bereavement care from healthcare teams help families navigate emotional recovery and future pregnancy planning.",
+      "source_numbers": [
+        4
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Most pregnancy losses occur in the first trimester.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Regular prenatal care is linked to reduced mortality risks.",
+      "source_numbers": [
+        2
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Decreased fetal movement should always be reported to a provider.",
+      "source_numbers": [
+        3
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Grief support improves mental health outcomes after loss.",
+      "source_numbers": [
+        4
+      ],
+      "confidence": "review"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Title and awareness",
+      "headline": "Pregnancy and Infant Loss Awareness Month",
+      "short_copy": "Honoring lives lost and supporting families through grief and prevention.",
+      "bullet_points": [
+        "October awareness month",
+        "Honor every life lost",
+        "Support families today"
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Define loss types",
+      "headline": "Understanding Pregnancy and Infant Loss",
+      "short_copy": "Miscarriage, stillbirth, and neonatal death are distinct medical events.",
+      "bullet_points": [
+        "Miscarriage: before 20 weeks",
+        "Stillbirth: after 20 weeks",
+        "Neonatal death: first 28 days"
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Risk reduction",
+      "headline": "Reducing Risk Through Care",
+      "short_copy": "Preconception health and prenatal visits lower complications significantly.",
+      "bullet_points": [
+        "Manage chronic conditions",
+        "Avoid alcohol and tobacco",
+        "Attend prenatal appointments"
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Warning signs",
+      "headline": "When to Seek Urgent Help",
+      "short_copy": "Report bleeding, pain, or reduced movement immediately to your provider.",
+      "bullet_points": [
+        "Vaginal bleeding or pain",
+        "Fever or severe headache",
+        "Less fetal movement"
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Support and care",
+      "headline": "You Are Not Alone",
+      "short_copy": "Grief counseling and bereavement care support healing after loss.",
+      "bullet_points": [
+        "Professional grief counseling",
+        "Support groups available",
+        "Future planning supported"
+      ]
+    },
+    {
+      "cautions": [
+        "Do not promise a cure for loss.",
+        "Sensitivity required when discussing infant death.",
+        "Definitions vary by jurisdiction."
+      ],
+      "questions_for_review": [
+        "Are gestational age cutoffs consistent with current local guidelines?",
+        "Should specific statistics be localized for the audience region?"
+      ],
+      "disclaimer": "This content is for educational purposes only and does not replace professional medical advice, diagnosis, or treatment.",
+      "medical_review_required": true
+    }
+  ],
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Context: Pregnancy and Infant Loss Awareness Month and how to reduce the mortality Objective: Create a social post in Instagram, facebook and linkedin Style: Use proRITHM Branding Kit Tone: Professional Audience: Anyone Response: Image for social media",
+  "medical_review_required": true
+}

@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-10-12T15:28:01.993431",
+  "topic": "Pregnancy and Infant Loss Awareness Month",
+  "prompt": "Context: Pregnancy and Infant Loss Awareness Month and how to reduce the mortality Objective: Create a social post in Instagram, facebook and linkedin Style: Use proRITHM Branding Kit Tone: Professional Audience: Anyone Response: Image for social media",
+  "slides": [
+    {
+      "slide": 1,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month\\slide_01.png",
+      "headline": "Pregnancy and Infant Loss Awareness Month",
+      "slogan": "Honoring families affected by loss and sharing vital health information."
+    },
+    {
+      "slide": 2,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month\\slide_02.png",
+      "headline": "Understanding Loss Types",
+      "slogan": "Miscarriage, stillbirth, and neonatal death are distinct medical events."
+    },
+    {
+      "slide": 3,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month\\slide_03.png",
+      "headline": "Risk Factors and Prevention",
+      "slogan": "Some risks cannot be changed, but health matters."
+    },
+    {
+      "slide": 4,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month\\slide_04.png",
+      "headline": "Warning Signs",
+      "slogan": "Contact your provider immediately for these symptoms."
+    },
+    {
+      "slide": 5,
+      "path": "generated_research\\2026-10-12_pregnancy-and-infant-loss-awareness-month\\slide_05.png",
+      "headline": "Support and Resources",
+      "slogan": "Grief support is available for parents and partners."
+    }
+  ],
+  "published": false
+}

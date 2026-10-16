@@ -1,0 +1,440 @@
+{
+  "saved_at": "2026-10-12T13:18:01.988355",
+  "topic": "Diabetes: Proactive Health Choices",
+  "campaign_mode": "educational_carousel",
+  "summary": "Diabetes is a chronic condition characterized by high blood glucose. Effective management and prevention, particularly for Type 2 diabetes, hinge on proactive health choices including regular monitoring, understanding the condition, engaging in physical activity, and making informed nutritional decisions.",
+  "research_sections": [
+    {
+      "question": "What is diabetes?",
+      "answer": "Diabetes is a chronic medical condition where the body either doesn't produce enough insulin or can't effectively use the insulin it produces, leading to elevated levels of glucose (sugar) in the blood. Insulin is a hormone that regulates blood sugar, allowing glucose to enter cells for energy. There are several types, with Type 1 and Type 2 being the most common.",
+      "source_numbers": [
+        20,
+        25
+      ]
+    },
+    {
+      "question": "Why does diabetes happen?",
+      "answer": "Type 1 diabetes is an autoimmune condition where the body's immune system mistakenly attacks and destroys the insulin-producing beta cells in the pancreas. This process is influenced by genetics and environmental triggers like certain viruses. Type 2 diabetes often begins with insulin resistance, where cells don't respond normally to insulin. Over time, the pancreas may not be able to produce enough insulin to keep blood sugar levels healthy. It's caused by a combination of genetic, environmental, and lifestyle factors.",
+      "source_numbers": [
+        2,
+        5,
+        8,
+        9,
+        16,
+        17,
+        20,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "question": "Who is at risk?",
+      "answer": "Risk factors for Type 1 diabetes include a family history of the condition, certain genes, age (with peaks between 4-7 and 10-14 years), geographic location, and exposure to specific viruses. For Type 2 diabetes, key risk factors are being overweight or having obesity, particularly abdominal fat; physical inactivity; a family history of diabetes; increasing age (especially over 45); certain ethnicities (African American, American Indian, Asian American, Hispanic/Latino, Pacific Islander); having prediabetes or a history of gestational diabetes; high blood pressure; and abnormal blood lipid levels.",
+      "source_numbers": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        11,
+        14,
+        16,
+        23,
+        24,
+        30
+      ]
+    },
+    {
+      "question": "Signs or warning signs?",
+      "answer": "Common warning signs for both Type 1 and Type 2 diabetes can include frequent urination, increased thirst and hunger, extreme fatigue, and blurry vision. Other signs may involve unexplained weight loss (more common in Type 1), slow-healing sores or cuts, frequent infections, tingling, pain, or numbness in the hands or feet (more common in Type 2), irritability or mood changes, and the presence of ketones in the urine (often in Type 1).",
+      "source_numbers": [
+        7,
+        19,
+        21,
+        27,
+        28,
+        36,
+        39
+      ]
+    },
+    {
+      "question": "How professionals assess it?",
+      "answer": "Healthcare professionals diagnose diabetes, prediabetes, and gestational diabetes using various blood tests. These include the Fasting Plasma Glucose (FPG) test, the A1C test (which shows average blood glucose over the last three months), and the Oral Glucose Tolerance Test (OGTT). A Random Plasma Glucose Test can also be used, especially if symptoms are present.",
+      "source_numbers": [
+        12,
+        13,
+        21,
+        22,
+        26,
+        29
+      ]
+    },
+    {
+      "question": "Treatment or management?",
+      "answer": "Managing diabetes involves a multi-faceted approach. For all types, a healthy diet, regular physical activity, and maintaining a healthy weight are crucial. Type 1 diabetes requires lifelong insulin therapy, typically through injections or an insulin pump, and consistent blood sugar monitoring. For Type 2 diabetes, lifestyle modifications are often the first step; if these are insufficient, medication, including oral drugs, insulin, or other injectable medications like GLP-1 receptor agonists or SGLT2 inhibitors, may be prescribed.",
+      "source_numbers": [
+        8,
+        15,
+        18,
+        20,
+        22,
+        24,
+        31,
+        33,
+        35,
+        38
+      ]
+    },
+    {
+      "question": "Prevention/risk reduction?",
+      "answer": "Type 1 diabetes cannot currently be prevented, though research is ongoing to understand its triggers. Type 2 diabetes is largely preventable or can be delayed through lifestyle changes. Key strategies include maintaining a healthy weight (losing 5-7% of body weight for those with prediabetes), engaging in regular physical activity (aiming for at least 150 minutes of moderate aerobic activity and two strength training sessions per week), and adopting a healthy diet rich in fiber, whole grains, and healthy fats while limiting sugars and processed carbohydrates.",
+      "source_numbers": [
+        15,
+        18,
+        20,
+        34,
+        35
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Diabetes is a chronic condition where the body struggles to manage blood glucose levels, either due to insufficient insulin production or ineffective insulin use.",
+      "source_numbers": [
+        20,
+        25
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Type 1 diabetes is an autoimmune disease where the body's immune system attacks insulin-producing cells.",
+      "source_numbers": [
+        5,
+        17,
+        24
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Type 2 diabetes often starts with insulin resistance and can frequently be prevented or delayed through lifestyle interventions.",
+      "source_numbers": [
+        2,
+        8,
+        25,
+        34
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Proactive steps like healthy eating, regular exercise, and maintaining a healthy weight are crucial for both preventing Type 2 diabetes and managing all types of diabetes.",
+      "source_numbers": [
+        15,
+        20,
+        34,
+        35
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Diagnosis involves blood tests such as A1C, fasting plasma glucose, and oral glucose tolerance tests.",
+      "source_numbers": [
+        12,
+        13,
+        29
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Introduce the campaign's overarching theme of proactive health choices in diabetes management through a comprehensive visual narrative.",
+      "headline": "Proactive Health: Managing Diabetes",
+      "short_copy": "Take charge of your diabetes journey. Routine monitoring, informed choices, and active living are key proactive steps for managing your health and well-being.",
+      "visual_direction": "A circular photographic montage (1:1 aspect ratio) with a central, dynamic focal point of a close-up photograph of a young adult's hand gently checking a blood glucose meter reading, focused on the display. The background of the central visual is slightly blurred, showing a healthy, colorful fruit bowl and a water bottle in a bright, modern kitchen with natural light. Surrounding this central visual, arranged in a flowing, layered composition with soft photographic blends, are supporting scenes: On the left, a detailed diagram illustrating the difference between Type 1 and Type 2 diabetes (insulin production and cellular response on a clean, white background with subtle gradient). On the right, a diverse group of individuals engaging in joyful physical activities – walking, cycling, swimming – in a park with lush greenery and a sunny sky. In the bottom left, a close-up of a balanced, healthy meal (lean protein, whole grains, plenty of vegetables) on a well-lit dining table. In the bottom right, a person carefully selecting fresh fruits and vegetables at a vibrant farmer's market. Consistent natural lighting is maintained throughout. Anatomical details are subtly incorporated to enhance realism. The overall composition emphasizes a proactive and positive approach. Palette: #FFFFFF, #E0E0E0, #8FBC8F, #669999, #A0D6B4, #FFD700. Natural skin tones preserved. Photorealistic people, authentic actions, detailed real materials, coherent natural light, polished compositing. One dominant focal visual, secondary scenes clearly readable at social-post size, no crowded grid. Bottom 25% kept quiet for copy. Upper-left 28% width and 14% height reserved for brand logo. Avoid: medical equipment, doctors, patients, disease-awareness imagery, stones, feathers, abstract objects, logos, watermarks, gore. No text, letters, numbers, labels, signs, captions, logos, watermarks, fake writing or interface panels. Faces unobstructed.",
+      "source_numbers": []
+    },
+    {
+      "number": 2,
+      "purpose": "Educate users on the fundamental differences between Type 1 and Type 2 diabetes.",
+      "headline": "Know Your Diabetes Types",
+      "short_copy": "Understanding the distinct mechanisms of Type 1 (autoimmune) and Type 2 (insulin resistance) diabetes is crucial for appropriate management and making informed health decisions.",
+      "visual_direction": "A clean, modern visual focusing on the 'left side, supporting scene' from the montage: A detailed diagram illustrating the difference between Type 1 and Type 2 diabetes, showing insulin production and cellular response. The setting is a clean, white background with a subtle gradient. The diagram should be clear, concise, and easy to understand at social-post size. Consistent lighting and palette from the campaign are maintained.",
+      "source_numbers": [
+        5,
+        8,
+        17,
+        20,
+        24
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Highlight the importance and benefits of regular physical activity in diabetes management and prevention.",
+      "headline": "Move Towards Better Health",
+      "short_copy": "Regular physical activity is a cornerstone of diabetes prevention and management. Joyful movement improves insulin sensitivity and supports overall physical and mental well-being.",
+      "visual_direction": "A vibrant photographic scene featuring the 'right side, supporting scene' from the montage: A diverse group of individuals engaging in various physical activities – walking, cycling, swimming – with a focus on joyful, authentic movement. The setting is a park with lush greenery and a sunny sky. Consistent lighting and palette from the campaign are maintained, preserving natural skin tones and photorealistic people. Faces unobstructed.",
+      "source_numbers": [
+        15,
+        18,
+        20,
+        34,
+        35
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Emphasize the critical role of healthy nutritional choices in controlling blood glucose levels.",
+      "headline": "Fueling Healthy Blood Sugar",
+      "short_copy": "Nutritional choices play a vital role in controlling blood glucose levels. Prioritize whole, unprocessed foods like lean proteins, whole grains, and plenty of fresh fruits and vegetables.",
+      "visual_direction": "A layered photographic scene combining the 'bottom left' and 'bottom right' supporting scenes from the montage. The foreground shows a close-up of a plate with a balanced, healthy meal – lean protein, whole grains, and plenty of vegetables – on a well-lit dining table with a simple, elegant design. Subtly blended into the background, a person is carefully selecting fresh fruits and vegetables at a vibrant farmer's market with colorful produce. Consistent lighting and palette are maintained. Faces unobstructed.",
+      "source_numbers": [
+        15,
+        18,
+        20,
+        35
+      ]
+    }
+  ],
+  "cautions": [
+    "Diabetes is a chronic condition that requires ongoing management; there is currently no cure for Type 1 diabetes.",
+    "Individual diabetes management plans should always be developed and monitored by a healthcare professional."
+  ],
+  "questions_for_review": [
+    "Are all medical terms and descriptions accurately represented?",
+    "Is the language consistently plain and accessible for a general audience?",
+    "Does the visual direction effectively convey the proactive message without implying a cure?",
+    "Is the emphasis on Type 2 diabetes prevention and Type 1 management clear and balanced?"
+  ],
+  "disclaimer": "This information is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for diagnosis and treatment of diabetes or any medical condition.",
+  "medical_review_required": true,
+  "sources": [
+    {
+      "title": "sjpp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCwObk_Cg1l9nit1NmvDKL2EKE1W4jqF-bliPu-keesbKXI6j8Z_oQHMTDQ5CnDDRXzhpmW_fSCwaUgnzfXvBacaXBlrDRpazmoBT1aPkDf5Gogtx1kyKV8LAGYaD8-nVJ9Qvltx8De60eOEJbcLAulvq82MmOhS0w7vXFNrZV5wBa8a3gD_15Vxt9srw=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "who.int",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuWPHfg5XKnesudMWHxE-zXfu0UNNM8d1meHKxRlSagiCBpfpZmZUY7Ah_NUuj4g8_nRaQaQC8o6ST97ThI_X0tRI2QaMI8xEPXmbvm8fzGCCPoGlYXkba3r-sCxP0wV4C7N_axrjy7ecR1rAjJpZvvqrk",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "cdc.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRm1YQMBfO_tbnCgAaPFvXIwKQB47GBmk5icxeAc4x7HvHqIJ2hO305Q6rUsutF8rWOHMUkCAd-1FkHgw9Gofh8N02sZo_36JR9hOm-3g58dGsoi_kOkzmQOhW67UFGXgyGZpsU8A414BMhexPumoA8hgMA1Nx8g==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHji0Ty3CqK-lzZajcROmwW90SvOXMtgdnwzHjDNWz_-1CbAX1vwNsZ4M0SJt3jh2ZLu-1IRTXrA85HNC86vqPJki21HNJayXDLSzzMzl9EA9SvtMra5rtqGUpxbfQYYiQR-9z2fGTAMEcaiVrCNs-5XqzkBwal-72x9pE6Iuszheaiip7ayTp_FLqvfKjEunL3bTeS2A==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDKSFl9RF612bYGnFqxUjPCbKGCf6btGHJJ7L3oPU8dJ2dA7qCEvLmlgZIXHKGRQy7gabNWurs7lGPw4s1041QNZ8WYtvlEbeAj407h2Tt5tFjdCoq6Zeb4QAEMltADBMcDwp8953toQlKMQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "breakthrought1d.org.au",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXnS2fRkcgH0ePA6jzGQRYgAcWWpJswIisJ83mHDekI2SW0Egw3hvcg1LTAev4YRYZ1ld7X0AXw1exG2SO5-ZmppK6MA_5F05CPEen5ru4siypDRqioLv19V_pyWiTTBptte3BIfVVLvFBxxs=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "idf.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZkoLaOefHOJ8JgGhD0gfgHiuen5NA0l2TgDJEGhG0pI_TbXNmYcVvm4hLwZD7Ly67WZr_k1j5vNZ5HklGutsG8q-e_sgNmRXz91qpnIW-nxY3BI0kvHHCoc7xxZ9MZTkjBXF3PbC5nj0=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "medlineplus.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVF_lqAQSKKK9yzJmIoM8MWRSnk3o-uJ_otCI2ckxkQL0bKIL2dGwMDpqAajXlrqX59M71ohN6yYv2WeqU_hDCTVhRUPLSoz6df-JO2JA9o5yAFGXR5v-Xw_u38GeOp09Oakaq",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf8EZQ8E3hTrC3dDjW5V8ike3EZBOYpQsiIeFtg03b4Hw-Ep_MlpRiKtk0lw-vkdi_xPeuvxofAquZp4B_Yy0luR2Ec_4IYf_gwwtKlZkc0A6XQ3UOF47A0YrTTS3AG4tGCrmV_2NGE9XWOLYOh_b6l25XpN7_9hNqZvmNxU-Rqir2yS53szAbbBLHPcBftamVWDs-sw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKkeBLDq6Unarqc9J38QPmlyNz2b3rtruVv9lzSmShlCV1iPJX-jC3X_RbdOE34CUxXz1UXZ4lyi7suBtjJyUJVg6TlT3as9uMD2l8BqLLzh0ClqM5Vjjuq1Tk4FgTz0SszC_gthArWibtxw==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "screenfortype1.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgcIeW0O1YfFehBZGSr2z44UAJRve7P6grrFDJwkNvXolMQD8cJleCogjO87trNIHwolbCFRKSLt43AvUxugcfMhhl0N0ICBGKpT3uMuNjVo9Xfxq6feQKVeaAS4x8Ufe1CihM-Y5pCQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "cdc.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf5iBITv1DQwgGJNUGdZAYBDdd5m7l2gGnX6er4FJOSqBSZ6rDDg8-dPd-wRxHLfTbRA43YNbG92zRdcIY9j8pWReE4Myv_vsG3YJWI3pg_hnXEEK2fotK_X3oOF8jSDwPnnhf-aEeBIEY11RHPQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetesresearchconnection.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw6LhDH2iJufH1dl1LcbQwTurth8zrBFz8lSPWbTj00mXjT0k5gbcjg0ugQZpDIWD4eLdz5PZTwRim3FNqr4KgFDz6TZeidFA1Sw683TCKTJRN_FCqM8n1UeYcvAi2NWnip9cNgc6VdmaVYngHllgChi4AOVpWGACytzGVMkkLB8J4Oi0k",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "breakthrought1d.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG-cMLtPIvS1wW8L_ee5TVU6N5_Gl_MImYnaxeZ08QfE63AJTiL_kNQRf7ZwjjLKdlrs5aHzRn11M4ypk7ghREk8bGtKc0nmSzCOEhDwiX4mJbfo7Yq8X5TW5mg5EP828widSBWaozdGBRk2yvVhjabgBoFoYM-PS57HAEo5Lo0JRV6wFJtqXQtSwrTA0o",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeruLg0s-YBWjDGC7Oi4DXbvKLspiaw15K0emve78oaPunf3TqUkLPcGmxTxrP7aFTAnZsTuCLg-czyMlM7ds1tFw0Yl5iIgAzPqLxgzG3OLGrPol3Umb--yy-3KBv5rpqCI4=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "abbott.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwrDCdAEgCmMJEWVjw0R30hRihTKI_K57WXHWGtVbTaENwXcbxqCM2pgtM_ZEzzATeL5LOPKwZCEjsEl0n09Vrtp4uspmH5ztDDs4iO8-QPO8mQcOzG0SrNitXqoP1MSGMgOseeXS7JjDXaClmy9qxRPHfUYD9Y-k0R5uK1xYnb7z_07E2i3DF2vnU8pqN",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "idf.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcOovY8egls4ED8nfep4gHbknJ8fx6GF2l-VfD142xsiqPiGYmoc8pBOVCnE5LCaQ9dxe7-nDpr3dpfpB0zXEgoIHhtstPinUtu1_mR236TG8uiiLGxd2ODnWuin6LBKZ4KzrgeYBuCHo=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuZbzsKnEBWk0v2RLXaJTUSxtsKr8QLW5Hec6HB1zzYW87N8AHFHC0aiyUDBZdXbNKs4XQhQ7J0A4rseihuSxMaKvrIHPRjdOwtICON9S71nPAhTKlrKJNDVYlXPamKRmYyQTqAYXQHAEHYRR8Aw_8NhZNxERf7M8WSX6kMcuRxmhe4hNFoL4sdSXpBXR2u0K_6bzZ0w==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetes.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGibD-ofEVJKNnNZaHLEQAvJenINDCUR-Z5I3S27WQ7V97L2v9MZpo-jCfHzgNohMP5FeKZER0sNHhOaI6kc7dTjmPlcR-lNebekH227TzOSBtPpS4lSO3-UCxB2G2qFiOWSgLnqJkYmvca97YMKZTYlgaQMg==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mdanderson.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1x8_atof388gUcc-vDFKGBug3_k0Oa8d45POZ1VW5Qv0QZvX1luz0b2L6pLMUIhUUQTuu5mVzCuggit1nqeVjC8WY6PK7bE9nge81oLz0V2-kP2VHgHXaRsXCCPdEAIyjxpmcdYtVIZxKLoZibglxsUDYrKJbA152VqD3JOlUKHhwzl1S9UBeaYl3Luegrlc4RuE9VCju-AaJbA84FnA=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "jackson-hospital.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENZHif13uIrKt7jL3XvzqeZdyoI31yxXMJb9nr2pricT_w7F-N5Rb8YJwGiDNlsVwvmr7QCzohmzSLHPeE82Id-DMDzHMuh8cDQrVWt40kbt3sV9a9xC1s9bCHDdm01ClNQFoWhCPNFakv0Rto1_FLwXvdev221ejUOi7MjHgKEyKK3TXf9JUy8qg=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmqK_0u-nHii-gJ_PygD6YO6YlSYMxBO8V-akuiH1R6wxAO8kxl8PB3uOqks_Iu5CFvRBfXMFQmXZr8OsoUWhIs62uKcYvp8ncAAdHXiWFLVfdnvWOb_d7OVld7tj_NYqyiQGRafBomJW9C8klBhZHK2t5pISt6gfMdAY1ysNeqajyPNFfkREO6uQZ3Xun",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "cdc.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHvNrVtHzlScSwz14dbt6LwU0AWSwByp9WUETv2igaTFDGd2AySGvA8woHgtS-XphvK32CN68VsIOuxhiH7EQNPtvE3Uz-s6VfQjYPniEAiKf__mRgmIwUVRYD0-TXoyyCX7QxkBcDo2ujU7l1v8OI",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "dartmouth-hitchcock.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlgpJ9xSnkvDaBIokgmhHwJMOv8xUErMOZHd4N-VA6SwStHrI6Tjy_46BMnyHI3sDFczCSGP4FVwNpov0dFD-PN9HDwJSve_p5nbgzYeGKazqJAUx0b-QHmsjfG5zwz2Np5UhGpMiapHOm3nnk2CyhMuUgZOnUHk_FbRixfGb_jnBEhcNovRdnnozRVOQoj_GOWlHVos8bmch12bX8EnKzqiU=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF3Vak02qhyeTMnutyj8wpxAZv1JyzG5W9VmFEwYvQdjXaCk0SXFSLH3M8qaAkCTEosTKl0Ykb92hbstXWgyxtOwbE8nPetneTdmR-5_IUPcc5iS_XVx_JJKv81qm5aIWAt5hQPA==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnrJDjvqOO2HNipm98rIoyk-PyI2fg9aPPZOs75d58kd__-qo7qjJYv-mPwzlHp2Urbh5W5A_tf9Mr_hXNc4QLVFAI3OmhDxMUZMISJSI3N3t0XaQhbVyZHBqNoGngc4eDN40EU4rwrZENKwoy62ZauLNoOUC-ZJYn6RfYGRb_RAeU37_RbHHg",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "healthinaging.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Au1ETkpX2wODrvOueVXIOjtXG3nsZgWcDTCJpIzFdwL1IIPZ685C28rAKF29m8j4kdNywpygIZWLHogrJ0DWHIVyPzADSHlKEwbAdoqTn9XnAx3Tf1B8Sbmviqmy3plx_GQLIIPmXOiARUbR0TTk",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "utswmed.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ5cEExXOdNOXZbgtBV50elIBZsCLt-2jm-L_1-RzYAHF80WgFjwOntptLFuAn-oDIo9pIb19YKka3He2AcVngFcSkj4OJtyZYW-kUE-ESAxN3uE6gewF4OjVg6xmNTjzgQhyXwnT9bSA-drW1uexuU9_2KQUbrDCNf4uf3F6bDPa24DtDp-S4",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "aafp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeIsFBoqDzTIGLNl36yb27_8B7mMBdWQqQBbFjSsKbg95Mi0wQYNOMQ-KziAXb3e83Muz6yBKN3Ksk1_U9UVUNrRp-BEWuAYgjN418sBvgF_v4S8iE0dz2l28HBsI-Rpr8",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "diabetes.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjg3owAX6ozDA0m5yafCpueQ2T3CSmkN6leMT8oSdTfGAuP52Nmhf2uJytWH2km4f9MgIwWBFjl4BUNOrQ5KrUA40_5e6R9VGeEf1t2O6JPuYqPBE_iFGHHFsIKLQ2LDxeOBrwk0P_",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUsNL6jhFyecqFqUsADn6fnC_E-VjnG4Khf46A_vuWaFdyZQNBYPa-uaMwCWYpU_mEQoSc687KOQofadM-hpFZ6RFLdZOlOQBuykWECG8KFRq3CgLm-38b0HQx13NLjtmXGS-undRzSJ9zpC59PqVIvhTyuOHslAWfbiNzf3i3sIfMGTOFHNcmg2yhAf8_cNleSQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "harvard.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_yv2dzgiAkgjWuuQ0FyBTwC-jAIfAxvi58_s05ku6BMP6s6ILdyhChNeWwadTmcmwV2c5cVD9K_74vxj8sdWQovSVVAEgrwvG6GsEFFMo0AOkNMH0d4-Q4kh4_3CMxnvp2xhPAJwW8dP6DRMoTuJvDqprkEgbhOmn8U5TlQOBTq0bM_gbC3VwzuaA3Ygn9nVKCXDNkgLU2gAKjiQl_xLtadV9xYWUKoHz",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIVJffexsf86atYqNFp52iuExdQwA0aDlsRawEVFY0Kuy1pM3dR4Tdys9vN6Og4lo_uTOUg6TUZJt-VwSKIuVhv8qNc-9R3OeqR3aJzBj-qeZP8E2HZnBjPwBsqNYJLNRWUaBDdnvyuo_ZI0PbTUY_tSVcCsbyb7N1w-5U7jyIAsTtE0Nh3oVH2pzYBK5O0fgTe2GqwqlIxtiqrFnifbS_5lQ=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "crf.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcSicPKmJQ6ZdA3sQBnGcRkN8Y6Z4OicHQOwZnlcWcacbho9zlWC0XdQ_AjfCQvFPLwTfW3UVrY4eXFjB7MqkgxQVoh209zoaTHaIUkof22GrB_msB_I-8kMi1EMSDESsrbySWdr-nGzllD93qmv4xbKO8WMs3QAp5pSsbsACZWMmZWLSQMu5jhf-s6g86UWkim7wpUw4WmXo=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCx7C0UvjCJX6mZb6VU90NthcmPGB-xaUBKxN3dDSk0UMNUVb9qlcPoKGmEV3m_nn0MhGTd0UIyC-sc5pA5u5rBRr1yZwXFHX7fkw8T5LBphzklP4IpEACWdPVlbQXH3NocGVv_zIhx0VJb-I=",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "webmd.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFboyqQ80lW2OxeVzXnU7eZt3i5WfuldkGU1ZsrHb2M4SRCV-q8HX_1q_-GE77SMLu2KKp2xHrerdAZC3i4rm1Sm1mLxYL6T6ZUHMRJ3U9PwBaSx9d_0Bqjqdn2k0Do3iMi2Mrsp6frMmxKGf1BoqF5LytXIQ==",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    },
+    {
+      "title": "idf.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH65_91u_tnAsFbTkK8CJtK-q4aOKXyav_h0NQW07GkFCbuxxw1ZHucefH7sYkA17ZiA1rfWvDdoAork-VvQiMGb1AXa1Cch_ixBF9pQUffNyi7amX_Yz77GFMmRSrmTcrbzeq2d1cyc7KhjPlN",
+      "domain": "vertexaisearch.cloud.google.com",
+      "published_date": ""
+    }
+  ],
+  "user_prompt": "Create a premium photographic campaign montage. MESSAGE TO COMMUNICATE WITHOUT WORDS: Illustrative depiction of the complex interplay between symptoms, risk factors, and management strategies for diabetes, emphasizing proactive health choices. CENTRAL FOCAL VISUAL: A close-up photograph of a hand gently checking a blood glucose meter reading, with a slightly blurred background showing a healthy, colorful fruit bowl and a water bottle. COMPOSITION: Circular montage with a central, dynamic focal point, surrounded by supporting scenes arranged in a flowing, layered composition. REQUIRED CONNECTED SCENES (include every scene): 1. Foreground, central visual.: A young adult meticulously measuring their blood glucose level with a digital meter, focused on the display.. Setting: A bright, modern kitchen with a countertop, natural light, and healthy food options.. Visual meaning: Routine monitoring of blood glucose levels is crucial for managing diabetes.. 2. Left side, supporting scene.: A detailed diagram illustrating the difference between Type 1 and Type 2 diabetes, showing insulin production and cellular response.. Setting: A clean, white background with a subtle gradient.. Visual meaning: Understanding the distinct mechanisms of Type 1 and Type 2 diabetes is key to appropriate management.. 3. Right side, supporting scene.: A diverse group of individuals engaging in various physical activities – walking, cycling, swimming – with a focus on joyful movement.. Setting: A park with lush greenery and a sunny sky.. Visual meaning: Regular physical activity is a cornerstone of diabetes prevention and management.. 4. Bottom left, supporting scene.: A close-up of a plate with a balanced, healthy meal – lean protein, whole grains, and plenty of vegetables.. Setting: A well-lit dining table with a simple, elegant design.. Visual meaning: Nutritional choices play a vital role in controlling blood glucose levels.. 5. Bottom right, supporting scene.: A person carefully selecting fresh fruits and vegetables at a farmer's market.. Setting: A vibrant farmer's market with colorful produce and friendly vendors.. Visual meaning: Prioritizing whole, unprocessed foods supports healthy blood sugar levels.. LAYOUT: Scenes are arranged around the central visual with soft photographic blends and layered photography. Consistent lighting is maintained throughout. Anatomical details are subtly incorporated to enhance realism. The overall composition emphasizes a proactive and positive approach to diabetes management. PALETTE: #FFFFFF, #E0E0E0, #8FBC8F, #669999, #A0D6B4, #FFD700. Preserve natural skin tones. Photorealistic people, authentic actions, detailed real materials, coherent natural light, polished photographic compositing. One dominant focal visual; secondary scenes clearly readable at social-post size. Soft transitions, no crowded grid. The dominant visual must communicate the requested subject through a concrete action, symptom, or care interaction. Never use a generic centered portrait, confident headshot, or unrelated smiling healthcare worker as the main visual. Relevant nonverbal symbols are allowed. No text, letters, numbers, labels, signs, captions, logos, watermarks, fake writing or interface panels. Keep the bottom 25 percent quiet for copy added later; keep faces unobstructed. Reserve the upper-left 28 percent width and 14 percent height for the brand logo. Avoid: medical equipment, doctors, patients, disease-awareness imagery, stones, feathers, abstract objects, logos, watermarks, gore. FORMAT: 1:1"
+}

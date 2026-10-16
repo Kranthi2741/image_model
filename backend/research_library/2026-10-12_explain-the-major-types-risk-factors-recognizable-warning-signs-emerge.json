@@ -1,0 +1,170 @@
+{
+  "saved_at": "2026-10-12T14:44:16.070038",
+  "topic": "Stroke",
+  "campaign_mode": "educational_carousel",
+  "summary": "A stroke occurs when blood flow to part of the brain is interrupted. It is a medical emergency requiring immediate action to prevent permanent brain damage or death.",
+  "research_sections": [
+    {
+      "question": "What is a stroke?",
+      "answer": "A stroke happens when blood supply to part of the brain is blocked or a blood vessel bursts. Major types include ischemic (clot), hemorrhagic (bleed), and transient ischemic attack (TIA).",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "Why does it happen?",
+      "answer": "Risk factors include high blood pressure, smoking, diabetes, high cholesterol, and heart disease. Some factors like age and family history cannot be changed.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What are the warning signs?",
+      "answer": "Use FAST: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services. Other signs include sudden confusion, vision loss, or severe headache.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How do professionals assess it?",
+      "answer": "Doctors perform a physical exam and use CT scans or MRIs to identify the stroke type and location before planning treatment.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What is the treatment?",
+      "answer": "Treatment may include clot-busting medication, procedures to remove clots, surgery for bleeding, or rehabilitation therapy. Outcomes vary by individual.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How can it be prevented?",
+      "answer": "Long-term risk reduction involves managing blood pressure, exercising, eating well, not smoking, and taking prescribed medications consistently.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "When is urgent help needed?",
+      "answer": "Seek emergency care immediately at the first sign of stroke symptoms. Do not wait to see if symptoms go away.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Stroke is a leading cause of serious long-term disability in adults.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "High blood pressure is the most important modifiable risk factor for stroke.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Emergency treatment can limit brain damage and improve recovery outcomes.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Define the condition and types",
+      "headline": "What Is a Stroke?",
+      "short_copy": "A stroke happens when blood flow to the brain stops. Brain cells die without oxygen. There are two main types.",
+      "bullet_points": [
+        "Ischemic: blocked artery",
+        "Hemorrhagic: bleeding in brain",
+        "TIA: temporary warning sign"
+      ],
+      "visual_direction": "Split graphic showing blocked vs bleeding blood vessel in brain",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Highlight warning signs",
+      "headline": "Know the Warning Signs",
+      "short_copy": "Know FAST. Face drooping, Arm weakness, Speech difficulty. Time to call emergency services immediately.",
+      "bullet_points": [
+        "Sudden numbness or confusion",
+        "Trouble seeing or walking",
+        "Severe headache with no cause"
+      ],
+      "visual_direction": "Large FAST acronym with icons for Face, Arms, Speech",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Emergency response actions",
+      "headline": "Act Fast: Call for Help",
+      "short_copy": "Call emergency services right away. Note the time symptoms started. Do not drive yourself.",
+      "bullet_points": [
+        "Every minute counts",
+        "Do not eat or drink",
+        "Bring medication list"
+      ],
+      "visual_direction": "Phone icon with emergency number and clock",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Diagnosis and treatment overview",
+      "headline": "Diagnosis and Treatment",
+      "short_copy": "Doctors use scans to find the type. Treatment depends on the cause and timing.",
+      "bullet_points": [
+        "CT scan or MRI",
+        "Clot-busting medication",
+        "Rehabilitation therapy"
+      ],
+      "visual_direction": "Medical imaging scan image next to treatment icons",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Long-term prevention",
+      "headline": "Reduce Your Risk",
+      "short_copy": "Manage blood pressure and cholesterol. Stay active and avoid smoking. These steps lower risk long-term.",
+      "bullet_points": [
+        "Healthy diet",
+        "Regular exercise",
+        "Take prescribed meds"
+      ],
+      "visual_direction": "Healthy lifestyle icons like apple, shoes, pill bottle",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "cautions": [
+    "Do not take aspirin unless a doctor confirms it is safe, as it can worsen bleeding strokes.",
+    "Symptoms may come and go (TIA) but still require immediate medical evaluation."
+  ],
+  "questions_for_review": [
+    "Is the distinction between ischemic and hemorrhagic stroke clear for a general audience?",
+    "Are the emergency instructions actionable and unambiguous?"
+  ],
+  "disclaimer": "This content is for educational purposes only and is not medical advice. Consult a healthcare provider for personal health concerns.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Explain the major types, risk factors, recognizable warning signs, emergency response, diagnosis, treatment, and prevention. Clearly distinguish emergency actions from long-term risk reduction, include authoritative sources, and prioritize accurate, actionable messaging."
+}

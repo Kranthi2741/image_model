@@ -1,0 +1,38 @@
+{
+  "created_at": "2026-10-12T14:46:29.967943",
+  "topic": "Stroke",
+  "prompt": "Explain the major types, risk factors, recognizable warning signs, emergency response, diagnosis, treatment, and prevention. Clearly distinguish emergency actions from long-term risk reduction, include authoritative sources, and prioritize accurate, actionable messaging.",
+  "slides": [
+    {
+      "slide": 1,
+      "path": "generated_research\\2026-10-12_stroke\\slide_01.png",
+      "headline": "What Is a Stroke?",
+      "slogan": "A stroke happens when blood flow to the brain stops…"
+    },
+    {
+      "slide": 2,
+      "path": "generated_research\\2026-10-12_stroke\\slide_02.png",
+      "headline": "Know the Warning Signs",
+      "slogan": "Know FAST. Face drooping, Arm weakness, Speech difficulty. Time to…"
+    },
+    {
+      "slide": 3,
+      "path": "generated_research\\2026-10-12_stroke\\slide_03.png",
+      "headline": "Act Fast: Call for Help",
+      "slogan": "Call emergency services right away. Note the time symptoms started…"
+    },
+    {
+      "slide": 4,
+      "path": "generated_research\\2026-10-12_stroke\\slide_04.png",
+      "headline": "Diagnosis and Treatment",
+      "slogan": "Doctors use scans to find the type. Treatment depends on…"
+    },
+    {
+      "slide": 5,
+      "path": "generated_research\\2026-10-12_stroke\\slide_05.png",
+      "headline": "Reduce Your Risk",
+      "slogan": "Manage blood pressure and cholesterol. Stay active and avoid smoking…"
+    }
+  ],
+  "published": false
+}

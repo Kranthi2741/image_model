@@ -1,0 +1,170 @@
+{
+  "saved_at": "2026-10-12T22:54:22.788421",
+  "topic": "Lung Health Awareness",
+  "campaign_mode": "educational_carousel",
+  "summary": "Educate viewers on healthy versus damaged lungs, respiratory risk factors like smoking, warning signs, and steps to protect breathing health through prevention and professional evaluation.",
+  "art_direction": "Split-composition infographic style. Palette: fresh teal and white for health, muted charcoal and rust for damage. Bold sans-serif headlines, clean anatomical illustrations with overlay icons. Tone: Empowering and clear, avoiding fear tactics.",
+  "research_sections": [
+    {
+      "question": "What distinguishes healthy lungs from damaged ones?",
+      "answer": "Healthy lungs are pink and spongy, expanding fully. Damage from smoke or pollution causes scarring, inflammation, and reduced air exchange capacity.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What are the main respiratory risk factors?",
+      "answer": "Cigarette smoking is the leading cause. Secondhand smoke, air pollution, occupational dusts, and chemicals also significantly increase lung disease risk.",
+      "source_numbers": [
+        2
+      ]
+    },
+    {
+      "question": "What are the warning signs of lung issues?",
+      "answer": "Persistent cough, shortness of breath, chest pain, wheezing, or coughing blood require medical attention rather than home remedies.",
+      "source_numbers": [
+        3
+      ]
+    },
+    {
+      "question": "How can lung health be protected?",
+      "answer": "Avoid tobacco, reduce exposure to pollutants, and seek evaluation for persistent symptoms. Screening is for eligible high-risk groups, not general prevention.",
+      "source_numbers": [
+        4
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Smoking is the leading preventable cause of lung disease.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "No treatment reverses all lung damage caused by smoking.",
+      "source_numbers": [
+        2
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Persistent cough or breathlessness warrants professional evaluation.",
+      "source_numbers": [
+        3
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Quitting smoking improves lung function at any age.",
+      "source_numbers": [
+        4
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Screening eligibility depends on age and smoking history.",
+      "source_numbers": [
+        5
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Introduce healthy vs damaged lungs",
+      "headline": "Healthy Lungs vs. Damaged Lungs",
+      "short_copy": "See the difference inside your chest.",
+      "bullet_points": [
+        "Pink and spongy",
+        "Expand fully to breathe",
+        "Smoke causes scarring",
+        "Harder to exchange air"
+      ],
+      "visual_direction": "Side-by-side anatomical illustration, left teal healthy, right gray damaged with smoke overlay.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "Explain risk factors",
+      "headline": "What Hurts Your Lungs?",
+      "short_copy": "Avoid these common respiratory risks.",
+      "bullet_points": [
+        "Cigarette smoking",
+        "Secondhand smoke",
+        "Air pollution",
+        "Workplace dust and chemicals"
+      ],
+      "visual_direction": "Icons representing smoke, traffic, factory, and dust surrounding a lung silhouette.",
+      "source_numbers": [
+        2
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "List warning signs",
+      "headline": "Warning Signs to Watch",
+      "short_copy": "Do not ignore persistent breathing symptoms.",
+      "bullet_points": [
+        "Cough lasting weeks",
+        "Shortness of breath",
+        "Chest pain",
+        "Coughing up blood"
+      ],
+      "visual_direction": "Lung icon with alert markers pointing to symptoms, using rust color accents.",
+      "source_numbers": [
+        3
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Prevention strategies",
+      "headline": "Protect Your Breathing",
+      "short_copy": "Reduce exposure and quit tobacco today.",
+      "bullet_points": [
+        "Stay smoke-free",
+        "Use masks in pollution",
+        "Ventilate indoor spaces",
+        "Exercise regularly"
+      ],
+      "visual_direction": "Bright teal background with shield icons blocking smoke and dust particles.",
+      "source_numbers": [
+        4
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Call to action/medical evaluation",
+      "headline": "When to See a Doctor",
+      "short_copy": "Get evaluated for persistent symptoms.",
+      "bullet_points": [
+        "Book a checkup",
+        "Discuss screening eligibility",
+        "Do not self-diagnose",
+        "Act early for better care"
+      ],
+      "visual_direction": "Doctor and patient consultation illustration with a stethoscope and calendar icon.",
+      "source_numbers": [
+        5
+      ]
+    }
+  ],
+  "cautions": [
+    "Never promise a cure for lung disease.",
+    "Distinguish screening from symptom evaluation.",
+    "Screening eligibility varies by age and history."
+  ],
+  "questions_for_review": [
+    "Should specific age thresholds be localized?",
+    "Are local pollution statistics needed?"
+  ],
+  "disclaimer": "This content is for educational purposes only and does not constitute medical advice. Consult a healthcare professional for diagnosis and treatment.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "Create a visually striking lung health awareness poster showing healthy lungs and the effects of respiratory risk factors. Explain the importance of avoiding smoking, reducing harmful exposure, and seeking medical evaluation for persistent breathing symptoms."
+}

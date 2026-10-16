@@ -1,0 +1,163 @@
+{
+  "saved_at": "2026-10-12T23:43:52.617672",
+  "topic": "Sepsis Awareness and Early Detection",
+  "campaign_mode": "educational_carousel",
+  "summary": "Sepsis is a life-threatening reaction to infection. This guide explains what it is, key warning signs, how professionals assess it, and why immediate care saves lives.",
+  "art_direction": "Clean medical infographic style. Palette: deep teal, alert amber, soft white. Typography: bold sans-serif headlines, legible body. Tone: urgent yet calm and empowering.",
+  "research_sections": [
+    {
+      "question": "What is sepsis?",
+      "answer": "Sepsis is the body's extreme, life-threatening response to an infection. It causes widespread inflammation that can damage tissues, organs, and lead to organ failure.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "What are the warning signs?",
+      "answer": "Watch for confusion, extreme pain, clammy or sweaty skin, shortness of breath, and a high fever or very low body temperature.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "How is it diagnosed and treated?",
+      "answer": "Professionals use clinical signs, blood tests, and scoring systems like SOFA. Treatment starts immediately with antibiotics, fluids, and oxygen support.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "question": "Who is at risk and how to prevent it?",
+      "answer": "Reduce risk through vaccination, wound care, and managing chronic conditions. Infants, older adults, and immunocompromised people face higher risks.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "key_facts": [
+    {
+      "claim": "Sepsis is a medical emergency requiring immediate treatment.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Early recognition and treatment significantly improve survival rates.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Anyone with an infection can develop sepsis.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Standard treatment includes antibiotics, fluids, and organ support.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    },
+    {
+      "claim": "Risk increases with age, chronic illness, or weakened immunity.",
+      "source_numbers": [
+        1
+      ],
+      "confidence": "high"
+    }
+  ],
+  "slide_outline": [
+    {
+      "number": 1,
+      "purpose": "Define sepsis simply",
+      "headline": "What Is Sepsis?",
+      "short_copy": "Your body's extreme reaction to an infection.",
+      "bullet_points": [
+        "Body fights infection",
+        "Can damage organs",
+        "Medical emergency"
+      ],
+      "visual_direction": "Illustration of immune system reacting to bacteria with amber alert glow.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 2,
+      "purpose": "List warning signs",
+      "headline": "Warning Signs",
+      "short_copy": "Act fast if you notice these symptoms.",
+      "bullet_points": [
+        "Confused or slurred speech",
+        "Cold, clammy skin",
+        "Severe pain",
+        "Shortness of breath"
+      ],
+      "visual_direction": "Icon grid of symptoms with amber warning markers.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 3,
+      "purpose": "Explain diagnosis and treatment",
+      "headline": "Diagnosis & Treatment",
+      "short_copy": "Doctors assess quickly to start life-saving care.",
+      "bullet_points": [
+        "Blood tests and vitals",
+        "Scoring systems like SOFA",
+        "Antibiotics and fluids"
+      ],
+      "visual_direction": "Doctor reviewing chart with lab icons and IV drip.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "purpose": "Cover prevention and risk",
+      "headline": "Prevention & Risk",
+      "short_copy": "Reduce risk and know who is vulnerable.",
+      "bullet_points": [
+        "Keep wounds clean",
+        "Stay up to date on vaccines",
+        "Manage chronic conditions"
+      ],
+      "visual_direction": "Shield icon with vaccine and hygiene elements.",
+      "source_numbers": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "purpose": "Call to action for help",
+      "headline": "When to Seek Help",
+      "short_copy": "Do not wait. Call emergency services immediately.",
+      "bullet_points": [
+        "Suspect sepsis with infection",
+        "Do not wait for fever",
+        "Every hour counts"
+      ],
+      "visual_direction": "Emergency call icon with clock showing urgency.",
+      "source_numbers": [
+        1
+      ]
+    }
+  ],
+  "cautions": [
+    "This information is educational and not a diagnosis. Symptoms vary by individual."
+  ],
+  "questions_for_review": [
+    "Verify current qSOFA/SOFA criteria against latest guidelines."
+  ],
+  "disclaimer": "This content is for educational purposes only and does not constitute medical advice. Consult a healthcare professional for diagnosis and treatment.",
+  "medical_review_required": true,
+  "sources": [],
+  "research_mode": "OpenRouter model knowledge; human review required",
+  "user_prompt": "create a post to educate on sepsis and how to diagonisis sepsis"
+}

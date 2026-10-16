@@ -9,6 +9,10 @@ import time
 from datetime import datetime, timedelta
 from typing import Optional
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 import mysql.connector
 from mysql.connector import pooling
 import bcrypt

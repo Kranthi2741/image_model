@@ -16,7 +16,10 @@ def main():
         raise RuntimeError('CUDA unavailable: install the CUDA PyTorch wheel and check nvidia-smi.')
     print('GPU:', torch.cuda.get_device_name(0))
     print('VRAM GiB:', round(torch.cuda.get_device_properties(0).total_memory / 2**30, 1))
-    for language in FONT_NAMES:
+    # The current deployment uses English poster copy.  Indian-language
+    # shaping requires Pillow RAQM support, which is an optional native
+    # dependency and is not required for English campaigns.
+    for language in ("English",):
         font_for(language, '', 24)
         font_for(language, '', 24, True)
         font_for(language, '', 24, True, True)

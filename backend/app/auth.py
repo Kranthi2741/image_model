@@ -1,6 +1,4 @@
-"""
-Authentication module — MySQL-backed user management with JWT sessions.
-"""
+"""Authentication module with temporary in-memory auth when MySQL is disabled."""
 import os
 import re
 import hmac
@@ -18,6 +16,25 @@ import bcrypt
 # ── DB connection pool ────────────────────────────────────────────────────────
 
 _pool: Optional[pooling.MySQLConnectionPool] = None
+_MEMORY_USERS = {}
+_MEMORY_LOGS = []
+
+
+def _memory_enabled() -> bool:
+    return os.environ.get("AUTH_BACKEND", "memory").lower() == "memory"
+
+
+def _ensure_memory_admin():
+    if _MEMORY_USERS:
+        return
+    email = os.environ.get("ADMIN_EMAIL", "admin@marketai.com").strip().lower()
+    password = os.environ.get("ADMIN_INITIAL_PASSWORD", "")
+    if not password:
+        return
+    _MEMORY_USERS[email] = {
+        "id": 1, "email": email, "password": hash_password(password),
+        "role": "admin", "must_change": False,
+    }
 
 
 def get_pool() -> pooling.MySQLConnectionPool:
@@ -42,6 +59,9 @@ def get_conn():
 
 def init_db():
     """Create tables and seed admin if they don't exist."""
+    if _memory_enabled():
+        _ensure_memory_admin()
+        return
     conn = get_conn()
     cur = conn.cursor()
     cur.execute("""
@@ -144,6 +164,9 @@ def decode_token(token: str) -> Optional[dict]:
 # ── User CRUD ─────────────────────────────────────────────────────────────────
 
 def get_user_by_email(email: str) -> Optional[dict]:
+    if _memory_enabled():
+        _ensure_memory_admin()
+        return _MEMORY_USERS.get(email.strip().lower())
     conn = get_conn()
     cur = conn.cursor(dictionary=True)
     cur.execute("SELECT * FROM users WHERE email=%s", (email,))
@@ -154,6 +177,9 @@ def get_user_by_email(email: str) -> Optional[dict]:
 
 
 def get_user_by_id(user_id: int) -> Optional[dict]:
+    if _memory_enabled():
+        _ensure_memory_admin()
+        return next((u for u in _MEMORY_USERS.values() if u["id"] == user_id), None)
     conn = get_conn()
     cur = conn.cursor(dictionary=True)
     cur.execute("SELECT * FROM users WHERE id=%s", (user_id,))
@@ -165,6 +191,13 @@ def get_user_by_id(user_id: int) -> Optional[dict]:
 
 def create_user(email: str, temp_password: str) -> dict:
     hashed = hash_password(temp_password)
+    if _memory_enabled():
+        _ensure_memory_admin()
+        user_id = max((u["id"] for u in _MEMORY_USERS.values()), default=0) + 1
+        user = {"id": user_id, "email": email, "password": hashed,
+                "role": "user", "must_change": True}
+        _MEMORY_USERS[email] = user
+        return user
     conn = get_conn()
     cur = conn.cursor()
     cur.execute(
@@ -179,6 +212,12 @@ def create_user(email: str, temp_password: str) -> dict:
 
 def update_password(user_id: int, new_password: str):
     hashed = hash_password(new_password)
+    if _memory_enabled():
+        user = get_user_by_id(user_id)
+        if user:
+            user["password"] = hashed
+            user["must_change"] = False
+        return
     conn = get_conn()
     cur = conn.cursor()
     cur.execute(
@@ -190,6 +229,11 @@ def update_password(user_id: int, new_password: str):
 
 
 def delete_user(user_id: int):
+    if _memory_enabled():
+        user = get_user_by_id(user_id)
+        if user and user.get("role") != "admin":
+            _MEMORY_USERS.pop(user["email"], None)
+        return
     conn = get_conn()
     cur = conn.cursor()
     cur.execute("DELETE FROM users WHERE id=%s AND role!='admin'", (user_id,))
@@ -199,6 +243,12 @@ def delete_user(user_id: int):
 
 def log_campaign(user_id: int, email: str, role: str, prompt: str, image_count: int):
     input_type = "image+prompt" if image_count > 0 else "prompt"
+    if _memory_enabled():
+        _MEMORY_LOGS.append({"id": len(_MEMORY_LOGS) + 1, "user_id": user_id,
+            "email": email, "role": role, "input_type": input_type,
+            "prompt": prompt or "", "image_count": image_count,
+            "started_at": datetime.now().isoformat()})
+        return
     conn = get_conn()
     cur = conn.cursor()
     cur.execute(
@@ -210,6 +260,8 @@ def log_campaign(user_id: int, email: str, role: str, prompt: str, image_count: 
 
 
 def list_campaign_logs() -> list:
+    if _memory_enabled():
+        return list(reversed(_MEMORY_LOGS[-200:]))
     conn = get_conn()
     cur = conn.cursor(dictionary=True)
     cur.execute("SELECT id, user_id, email, role, input_type, prompt, image_count, started_at FROM campaign_logs ORDER BY started_at DESC LIMIT 200")
@@ -223,6 +275,10 @@ def list_campaign_logs() -> list:
 
 
 def list_users() -> list:
+    if _memory_enabled():
+        _ensure_memory_admin()
+        return [{k: u.get(k) for k in ("id", "email", "role", "must_change")}
+                for u in _MEMORY_USERS.values()]
     conn = get_conn()
     cur = conn.cursor(dictionary=True)
     cur.execute("SELECT id, email, role, must_change, created_at FROM users ORDER BY id")
